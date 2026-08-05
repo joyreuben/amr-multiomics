@@ -1,0 +1,10 @@
+*.fastq
+*.fastq.gz
+*.bam
+*.vcf.gz
+*.sam
+**/raw/*
+!**/raw/.gitkeep
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
