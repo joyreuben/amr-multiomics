@@ -1,0 +1,7 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+enterobacteriaceae	Col440I	95.61	114 / 114	NC_009652.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN6, complete sequence	3901..4014		CP023920.1
+enterobacteriaceae	IncFIB(K)	100.0	560 / 560	NC_009649.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence	110829..111388	Kpn3	JN233704
+enterobacteriaceae	IncFIB(pQil)	100.0	740 / 740	NC_009650.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence	46951..47690	pQil	JN233705
+enterobacteriaceae	IncFII(K)	100.0	148 / 148	NC_009649.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence	5614..5761		CP000648
+enterobacteriaceae	IncFII(K)	100.0	148 / 148	NC_009650.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence	5614..5761		CP000648
+enterobacteriaceae	IncR	99.2	251 / 251	NC_009651.1 Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence	55731..55981		DQ449578
