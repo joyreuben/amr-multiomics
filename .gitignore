@@ -12,3 +12,12 @@ __pycache__/
 # CARD database copy + RGI-built BLAST/DIAMOND indexes (rebuildable via `rgi load`/`rgi main`)
 /card.json
 localDB/
+!resistome/raw/*.fna
+resistome/results/pathogenwatch_west_africa/pathogenwatch-cgmlst.csv
+
+# Windows alternate-data-stream cruft from copying files through the WSL mount
+*:Zone.Identifier
+
+# Pipeline intermediates: QC reports and assembly logs (regenerable; only the
+# final .fna in raw/ is kept)
+resistome/processed/
