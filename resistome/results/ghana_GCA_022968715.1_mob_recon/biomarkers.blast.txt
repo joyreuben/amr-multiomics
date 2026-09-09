@@ -1,0 +1,22 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000124__KP125893_00142|IncFII	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	207	45855	1	207	44049	44255	207	1	99.517	100.0	100.0	plus	1.91e-105	377	replicon
+000107__CP014778_00094|IncFIB	JALJUO010000050.1 Klebsiella pneumoniae strain E34A contig00050, whole genome shotgun sequence	1011	16434	1	1011	12380	13390	1011	94	90.702	100.0	100.0	minus	0.0	1347	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	JALJUO010000062.1 Klebsiella pneumoniae strain E34A contig00062, whole genome shotgun sequence	519	3920	42	519	1518	1990	484	47	86.777	92.0	92.0	minus	6.19e-149	523	replicon
+CP035180_00077|MOBF	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	687	45855	1	251	32859	33614	252	18	92.46	37.0	99.0	plus	0.0	380	relaxase
+NC_021231_00058|MOBF	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	1753	45855	1	1753	33626	38881	1753	84	95.151	100.0	100.0	plus	0.0	3266	relaxase
+NC_013284_00016|MPF_T	JALJUO010000008.1 Klebsiella pneumoniae strain E34A contig00008, whole genome shotgun sequence	914	229293	1	914	192065	194800	914	84	90.591	100.0	100.0	plus	0.0	1720	mate-pair-formation
+NC_010726_00011|MPF_T	JALJUO010000008.1 Klebsiella pneumoniae strain E34A contig00008, whole genome shotgun sequence	358	229293	5	358	195798	196859	354	49	86.158	99.0	99.0	plus	2.31e-176	541	mate-pair-formation
+NC_005814_00013|MPF_T	JALJUO010000008.1 Klebsiella pneumoniae strain E34A contig00008, whole genome shotgun sequence	227	229293	1	227	197080	197760	227	7	96.916	100.0	100.0	plus	4.92e-130	402	mate-pair-formation
+NC_010726_00014|MPF_T	JALJUO010000008.1 Klebsiella pneumoniae strain E34A contig00008, whole genome shotgun sequence	301	229293	1	301	197763	198665	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation
+NC_014312_00116|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	101	45855	1	101	6606	6908	101	0	100.0	100.0	100.0	plus	4.49e-64	206	mate-pair-formation
+NC_014312_00118|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	246	45855	1	246	7484	8221	246	3	98.78	100.0	100.0	plus	5.44e-161	491	mate-pair-formation
+NC_023332_00154|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	474	45855	1	474	8224	9645	474	2	99.578	100.0	100.0	plus	0.0	791	mate-pair-formation
+NC_019389_00068|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	194	45855	23	194	10326	10841	172	10	94.186	89.0	89.0	plus	2.87e-107	335	mate-pair-formation
+NC_021502_00131|MPF_T	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	879	45855	1	879	13615	16251	879	43	95.108	100.0	100.0	plus	0.0	1736	mate-pair-formation
+NC_014312_00128|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	211	45855	1	211	16643	17275	211	2	99.052	100.0	100.0	plus	3.43e-129	398	mate-pair-formation
+NC_022609_00081|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	330	45855	1	330	17711	18697	330	15	95.152	100.0	100.0	plus	0.0	652	mate-pair-formation
+NC_011281_00082|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	215	45855	1	215	18976	19620	215	10	95.349	100.0	100.0	plus	7.649999999999999e-128	395	mate-pair-formation
+NC_021654_00016|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	668	45855	15	668	19673	21634	654	10	98.471	98.0	98.0	plus	0.0	1243	mate-pair-formation
+NC_019165_00034|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	456	45855	5	455	24528	25880	451	21	95.344	99.0	99.0	plus	0.0	797	mate-pair-formation
+NC_019155_00032|MPF_F	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	959	45855	1	951	25886	28741	952	71	92.437	99.0	99.0	plus	0.0	1700	mate-pair-formation
+NC_021502_00150|MPF_T	JALJUO010000036.1 Klebsiella pneumoniae strain E34A contig00036, whole genome shotgun sequence	770	45855	1	770	31314	33623	770	5	99.351	100.0	100.0	plus	0.0	1452	mate-pair-formation

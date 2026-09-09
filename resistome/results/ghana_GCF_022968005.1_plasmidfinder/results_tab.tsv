@@ -1,0 +1,4 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+enterobacteriaceae	IncFIA(HI1)	96.65	388 / 388	NZ_JALJUZ010000036.1 Klebsiella pneumoniae strain E55-1 contig00036, whole genome shotgun sequence	27601..27988	HI1	AF250878
+enterobacteriaceae	IncFIB(K)	99.64	560 / 560	NZ_JALJUZ010000047.1 Klebsiella pneumoniae strain E55-1 contig00047, whole genome shotgun sequence	3028..3587	Kpn3	JN233704
+enterobacteriaceae	IncFII	99.57	230 / 230	NZ_JALJUZ010000032.1 Klebsiella pneumoniae strain E55-1 contig00032, whole genome shotgun sequence	37444..37673	pKP91	CP000966

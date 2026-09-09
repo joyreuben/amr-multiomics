@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ghana_GCF_022968005.1	chromosome			NZ_JALJUZ010000007.1 Klebsiella pneumoniae strain E55-1 contig00007, whole genome shotgun sequence	254567	0.5801812489442858	9a379cac0527b42b44650f5cac0d0219	00590	KX242350	ISEc17	IS3	1263	1	1263	238593	239851						
+ghana_GCF_022968005.1	chromosome			NZ_JALJUZ010000011.1 Klebsiella pneumoniae strain E55-1 contig00011, whole genome shotgun sequence	198822	0.5790053414612065	abb10dadc9819d856ff390e85a2389ed	00647	AP010958	ISCfr6	IS3	1258	1	1258	615	1871						
+ghana_GCF_022968005.1	chromosome			NZ_JALJUZ010000043.1 Klebsiella pneumoniae strain E55-1 contig00043, whole genome shotgun sequence	16378	0.46470875564782027	9640869fb33b65cdc76141b1073a78b9	01360	KX710093	ISLad2	ISNCY	1527	1	1527	7222	8748						
