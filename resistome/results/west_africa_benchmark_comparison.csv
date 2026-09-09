@@ -1,16 +1,16 @@
-sample_id,st,esbl_genes,carbapenemase_genes,esbl_positive,carbapenemase_positive,quality_flag
-ghana_GCA_022968005.1,1996,,,False,False,
-ghana_GCA_022968085.1,464,blaCTX-M-15;blaOXA-1;blaSHV-38,,True,False,
-ghana_GCA_022968155.1,39,blaCTX-M-15;blaOXA-1,,True,False,
-ghana_GCA_022968255.1,1552,blaCTX-M-15;blaOXA-1,,True,False,
-ghana_GCA_022968275.1,815,blaCTX-M-15,,True,False,
-ghana_GCA_022968285.1,636,,,False,False,
-ghana_GCA_022968315.1,39,blaDHA-1,,True,False,
-ghana_GCA_022968365.1,39,,,False,False,
-ghana_GCA_022968715.1,307,blaCTX-M-15;blaOXA-1,,True,False,
-ghana_GCA_022968735.1,39,blaCTX-M-15;blaOXA-1,,True,False,
-ghana_GCA_022968745.1,-,blaCTX-M-15;blaOXA-1,,True,False,"contaminated: no dominant GC peak, 2594 contigs, 6.08 Mbp (oversized)"
-ghana_GCA_025660315.1,-,blaCTX-M-15;blaOXA-1,,True,False,"contaminated: bimodal GC (50-52% + 56-58%), 3/7 MLST loci absent, rpoB 95.2%"
-nigeria_ERR7226174,3321,,,False,False,
-nigeria_ERR7226188,86,blaCTX-M-15;blaOXA-1,,True,False,
-nigeria_ERR7226212,86,blaCTX-M-15;blaOXA-1,,True,False,
+sample_id,st,kleborate_esbl,kleborate_carbapenemase,esbl_positive,carbapenemase_positive,amrfinder_esbl_genes,amrfinder_carbapenemase_genes,quality_flag
+ghana_GCA_022968005.1,ST1996,-,-,False,False,,,
+ghana_GCA_022968085.1,ST464,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1;blaSHV-38,,
+ghana_GCA_022968155.1,ST39,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
+ghana_GCA_022968255.1,ST1552,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
+ghana_GCA_022968275.1,ST815,CTX-M-15,-,True,False,blaCTX-M-15,,
+ghana_GCA_022968285.1,ST636,-,-,False,False,,,
+ghana_GCA_022968315.1,ST39,-,-,False,False,blaDHA-1,,
+ghana_GCA_022968365.1,ST39,-,-,False,False,,,
+ghana_GCA_022968715.1,ST307,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
+ghana_GCA_022968735.1,ST39,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
+ghana_GCA_022968745.1,ST3567-2LV,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,"severely fragmented: N50 3641 bp, 2594 contigs, 6.08 Mbp (oversized)"
+ghana_GCA_025660315.1,ST307-4LV,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,"incomplete/likely mixed: 3/7 core MLST loci absent, ~1 Mbp of chromosome at 50-52% GC"
+nigeria_ERR7226174,ST3321,-,-,False,False,,,
+nigeria_ERR7226188,ST86,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
+nigeria_ERR7226212,ST86,CTX-M-15,-,True,False,blaCTX-M-15;blaOXA-1,,
