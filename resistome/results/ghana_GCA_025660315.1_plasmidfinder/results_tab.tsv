@@ -1,0 +1,9 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+enterobacteriaceae	Col440I	92.11	114 / 114	JAOURE010000106.1 Klebsiella pneumoniae strain P157 contig00181, whole genome shotgun sequence	1353..1466		CP023920.1
+enterobacteriaceae	IncFIA	99.74	388 / 388	JAOURE010000077.1 Klebsiella pneumoniae strain P157 contig00134, whole genome shotgun sequence	9342..9729		AP001918
+enterobacteriaceae	IncFIA(HI1)	96.91	388 / 388	JAOURE010000073.1 Klebsiella pneumoniae strain P157 contig00130, whole genome shotgun sequence	13976..14363	HI1	AF250878
+enterobacteriaceae	IncFIB(AP001918)	98.83	682 / 682	JAOURE010000094.1 Klebsiella pneumoniae strain P157 contig00162, whole genome shotgun sequence	2059..2740		AP001918
+enterobacteriaceae	IncFIB(K)	98.93	560 / 560	JAOURE010000089.1 Klebsiella pneumoniae strain P157 contig00154, whole genome shotgun sequence	3400..3959	Kpn3	JN233704
+enterobacteriaceae	IncFII	95.42	262 / 261	JAOURE010000082.1 Klebsiella pneumoniae strain P157 contig00143, whole genome shotgun sequence	9865..10126		AY458016
+enterobacteriaceae	IncFII(K)	95.95	148 / 148	JAOURE010000064.1 Klebsiella pneumoniae strain P157 contig00116, whole genome shotgun sequence	17490..17637		CP000648
+enterobacteriaceae	IncN	99.61	514 / 514	JAOURE010000097.1 Klebsiella pneumoniae strain P157 contig00168, whole genome shotgun sequence	226..739		AY046276

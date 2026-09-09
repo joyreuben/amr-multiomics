@@ -1,0 +1,175 @@
+plasmidfinder Results
+
+Organism(s): Enterobacteriaceae,Gram Positive
+
+****************************************************************************************
+Enterobacteriaceae,Acenitobacter baumannii
+****************************************************************************************************************************************************************************************************
+Plasmid      Identity  Query / Template length    Contig                                                                                          Position in contig    Note      Accession number
+****************************************************************************************************************************************************************************************************
+Col440I         94.74  114 / 114                  JALJUX010000064.1 Klebsiella pneumoniae strain P129 contig00064, whole genome shotgun sequence  1335..1448            -         CP023920.1
+IncFIB(K)       91.43  560 / 560                  JALJUX010000051.1 Klebsiella pneumoniae strain P129 contig00051, whole genome shotgun sequence  14807..15366          Kpn3      JN233704
+IncHI1B        100     570 / 570                  JALJUX010000055.1 Klebsiella pneumoniae strain P129 contig00055, whole genome shotgun sequence  8763..9332            pNDM-MAR  JN420336
+====================================================================================================================================================================================================
+
+
+****************************************************************************************
+Inc18
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+NT_Rep
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+Rep1
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+Rep2
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+Rep3
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+RepA_N
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+RepL
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+****************************************************************************************
+Rep_trans
+****************************************************************************************************************
+Plasmid    Identity    Query / Template length    Contig        Position in contig    Note    Accession number
+****************************************************************************************************************
+-          -           -                          No hit found  -                     -       -
+================================================================================================================
+
+
+
+
+Extended Output:
+
+# Col440I_CP023920.1
+template: 	ATGCACGAACCCCCCGTTCAGTCCGACTGCTGCGTCTTATCCGGTAACTATCATCTTGAG
+          	|||||||||||||||||||||||||||||||||| || |||||||||||||| |||||||
+query:    	ATGCACGAACCCCCCGTTCAGTCCGACTGCTGCGCCTAATCCGGTAACTATCGTCTTGAG
+
+template: 	TCCAACCCGGTAAGACATGCAAAAGCACCACTGGCAGCAGCCACCGGTAACTGA
+          	|||||||||| ||||||||||||||| ||||||||||||||||| |||||||||
+query:    	TCCAACCCGGAAAGACATGCAAAAGCGCCACTGGCAGCAGCCACTGGTAACTGA
+
+# IncFIB(K)_JN233704
+template: 	GTTTGGGGTTGCGATAATGCACGCTGAAATAGGTGGCTCGGCCACGTTTAAACTCGGTGT
+          	||||||| ||||||||||| ||||| || || || || ||||||||||||||||||||||
+query:    	GTTTGGGATTGCGATAATGAACGCTAAAGTAAGTCGCCCGGCCACGTTTAAACTCGGTGT
+
+template: 	AATCCAGATAACCAATATCCCGCAGCTGCTCCATCGCCTTACGCACCGTGTGGTTCTGCG
+          	|||||||||| || |||||||| || |||||||| ||||| || ||||||||||||||||
+query:    	AATCCAGATAGCCGATATCCCGAAGTTGCTCCATAGCCTTTCGGACCGTGTGGTTCTGCG
+
+template: 	TATAGACATTTGAGGTGAGATTCAGCCGGTCACGCATCCGTTTCATGGAAATAGGTGCAG
+          	|||||||||||||||| |||||||||||||| ||||| ||||||||||| |||||||| |
+query:    	TATAGACATTTGAGGTAAGATTCAGCCGGTCCCGCATACGTTTCATGGAGATAGGTGCGG
+
+template: 	GATTCTGGGGAAGACTTTCGATGTAGGTATAAAGCGCCTGGGCTGATTCCTTGCGCTGCA
+          	||||||||||||| || |||||||||||||| ||||||||||| |||||||| |||||||
+query:    	GATTCTGGGGAAGGCTCTCGATGTAGGTATACAGCGCCTGGGCAGATTCCTTCCGCTGCA
+
+template: 	GGGCGTCAATGGCTTTCAGCCGCAGCAGTACCCTTCTGTCCATGTGGTAAAGCTCAAACA
+          	|||||||||||||||||||||| ||||| ||||  |||||||| |||||||||||||| |
+query:    	GGGCGTCAATGGCTTTCAGCCGAAGCAGGACCCGCCTGTCCATATGGTAAAGCTCAAAGA
+
+template: 	GCTTAGGTTCAGCCTTTATCTCAACGATATCCTCGGTGATGTCATAATAGGCTGACTGCA
+          	|||| ||||||||||| ||||| |||||||||||| ||||||||||||||||||||||||
+query:    	GCTTGGGTTCAGCCTTGATCTCCACGATATCCTCGTTGATGTCATAATAGGCTGACTGCA
+
+template: 	CCAGATGGGTGGTCCATCCTTTGGTCTCGCTCTGGAACTTCAGCGTAACCGAGGCAAGTT
+          	||||||||||||||||||||||||||||||||||||||||||| ||||||||||| ||||
+query:    	CCAGATGGGTGGTCCATCCTTTGGTCTCGCTCTGGAACTTCAGGGTAACCGAGGCGAGTT
+
+template: 	TAAACAGGGAATTACTGATGCGATCGCGCATTTTTTTGTTTGAACGACGGGAGTTAAATC
+          	||||||||||||| ||||||||||| |||||||| |||||||| || || |||| |||||
+query:    	TAAACAGGGAATTGCTGATGCGATCCCGCATTTTCTTGTTTGAGCGCCGTGAGTCAAATC
+
+template: 	CGCACATCTTAACGAATTCGACGAACGACAGTTCCAGGGTGTCACTTTTTACCCCATACT
+          	| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+query:    	CACACATCTTAACGAATTCAACGAACGACAGTTCCAGGGTGTCACTTTTTACCCCATACT
+
+template: 	CCGACATGGAGCGAATTATC
+          	| ||||| |||||||| |||
+query:    	CAGACATCGAGCGAATGATC
+
+# IncHI1B_JN420336
+template: 	CTGATTCTTTTCGAGACAGGGTCTTCAATATTTTTAAGTAAAGTCGGGTCTTCCCGTCGA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CTGATTCTTTTCGAGACAGGGTCTTCAATATTTTTAAGTAAAGTCGGGTCTTCCCGTCGA
+
+template: 	CACGATACAGAGTATTCAAATCCGGATTTGGCCTGATAATGACCTCATCGGTTCCCTCAT
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CACGATACAGAGTATTCAAATCCGGATTTGGCCTGATAATGACCTCATCGGTTCCCTCAT
+
+template: 	CATAGTAAGAAGTAGACACCAGGCTCATGTCGATCTTTACTTTTTTCCCTTCTACTGTTG
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CATAGTAAGAAGTAGACACCAGGCTCATGTCGATCTTTACTTTTTTCCCTTCTACTGTTG
+
+template: 	AGTTTTTGATGAACTGGAAATGGGTGTGCTGGATCCGTGTCAGTGAGTCGCTAAAACGTT
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	AGTTTTTGATGAACTGGAAATGGGTGTGCTGGATCCGTGTCAGTGAGTCGCTAAAACGTT
+
+template: 	TCCTTAACCTTGAATCAACTCGTTTTGTAGCAAGCCCACAACTGAAAGCAAAATCAATAA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	TCCTTAACCTTGAATCAACTCGTTTTGTAGCAAGCCCACAACTGAAAGCAAAATCAATAA
+
+template: 	AATTGACCCTAACAGTCCCATCAGGCTCAAGAAATGTGTTGGCGAGTGTGTCCACGATCC
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	AATTGACCCTAACAGTCCCATCAGGCTCAAGAAATGTGTTGGCGAGTGTGTCCACGATCC
+
+template: 	CTAGCCAGACTTTGAAATCCGTATCCATATCAAGCCTGGGCCCAAAAATACTAATCTTTT
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CTAGCCAGACTTTGAAATCCGTATCCATATCAAGCCTGGGCCCAAAAATACTAATCTTTT
+
+template: 	CGTACCCCTCTCCAGCGATAGAAGAAAGACGACACAACTCAGTCGTTGCATCGATGACAT
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	CGTACCCCTCTCCAGCGATAGAAGAAAGACGACACAACTCAGTCGTTGCATCGATGACAT
+
+template: 	GACCTCGTGCCATAGGGTCACTGCCATCCTTGACTGTCGGAACAAAGACCCCCAATCGCA
+          	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:    	GACCTCGTGCCATAGGGTCACTGCCATCCTTGACTGTCGGAACAAAGACCCCCAATCGCA
+
+template: 	GTAGCGATTTGGGTTGAATACTCTGTTTTG
+          	||||||||||||||||||||||||||||||
+query:    	GTAGCGATTTGGGTTGAATACTCTGTTTTG
+

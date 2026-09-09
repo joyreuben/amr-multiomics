@@ -1,0 +1,12 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+HQ328804|MOBP	NZ_JALJUS010000074.1 Klebsiella pneumoniae strain P136 contig00074, whole genome shotgun sequence	174	5251	1	174	3769	3942	176	23	84.659	100.0	100.0	minus	7.84e-44	172	oriT
+000212__CP012556_00176|IncU	NZ_JALJUS010000060.1 Klebsiella pneumoniae strain P136 contig00060, whole genome shotgun sequence	1098	12360	1	1098	517	1614	1098	32	97.086	100.0	100.0	plus	0.0	1851	replicon
+000107__CP014778_00094|IncFIB	NZ_JALJUS010000060.1 Klebsiella pneumoniae strain P136 contig00060, whole genome shotgun sequence	1011	12360	1	1011	8294	9304	1011	1	99.901	100.0	100.0	minus	0.0	1862	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	NZ_JALJUS010000074.1 Klebsiella pneumoniae strain P136 contig00074, whole genome shotgun sequence	519	5251	2	516	3888	4402	517	30	93.424	99.0	99.0	plus	0.0	763	replicon
+CP024554_00008|ColRNAI_rep_cluster_1987	NZ_JALJUS010000085.1 Klebsiella pneumoniae strain P136 contig00085, whole genome shotgun sequence	411	3327	3	407	1442	1845	405	16	95.802	99.0	99.0	minus	0.0	652	replicon
+JN420336|IncHI1B	NZ_JALJUS010000111.1 Klebsiella pneumoniae strain P136 contig00111, whole genome shotgun sequence	570	686	1	468	1	468	468	1	99.786	82.0	82.0	minus	0.0	859	replicon
+NC_016979_00005|MOBP	NZ_JALJUS010000074.1 Klebsiella pneumoniae strain P136 contig00074, whole genome shotgun sequence	501	5251	1	501	1840	3345	502	18	96.215	100.0	100.0	minus	0.0	948	relaxase
+NC_013284_00016|MPF_T	NZ_JALJUS010000005.1 Klebsiella pneumoniae strain P136 contig00005, whole genome shotgun sequence	914	227744	1	914	196249	198984	914	84	90.591	100.0	100.0	plus	0.0	1720	mate-pair-formation
+NC_010726_00011|MPF_T	NZ_JALJUS010000005.1 Klebsiella pneumoniae strain P136 contig00005, whole genome shotgun sequence	358	227744	5	358	199982	201043	354	49	86.158	99.0	99.0	plus	2.28e-176	541	mate-pair-formation
+NC_005814_00013|MPF_T	NZ_JALJUS010000005.1 Klebsiella pneumoniae strain P136 contig00005, whole genome shotgun sequence	227	227744	1	227	201264	201944	227	7	96.916	100.0	100.0	plus	4.85e-130	402	mate-pair-formation
+NC_010726_00014|MPF_T	NZ_JALJUS010000005.1 Klebsiella pneumoniae strain P136 contig00005, whole genome shotgun sequence	301	227744	1	301	201947	202849	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation

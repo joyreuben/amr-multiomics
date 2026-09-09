@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_CP013834|MOBF	NZ_JALJUQ010000034.1 Klebsiella pneumoniae strain P60-1 contig00034, whole genome shotgun sequence	259	42351	1	259	42034	42292	262	28	87.023	100.0	100.0	plus	3.1100000000000005e-79	291	oriT
+000759__NC_013950_00034|rep_cluster_1418	NZ_JALJUQ010000034.1 Klebsiella pneumoniae strain P60-1 contig00034, whole genome shotgun sequence	876	42351	1	876	35104	35979	876	6	99.315	100.0	100.0	minus	0.0	1585	replicon
+000195__NC_013728_00014|IncQ1	NZ_JALJUQ010000058.1 Klebsiella pneumoniae strain P60-1 contig00058, whole genome shotgun sequence	885	4383	1	722	3662	4383	722	0	100.0	82.0	82.0	plus	0.0	1334	replicon
+CP024554_00008|ColRNAI_rep_cluster_1987	NZ_JALJUQ010000062.1 Klebsiella pneumoniae strain P60-1 contig00062, whole genome shotgun sequence	411	3631	35	411	2373	2750	378	13	96.296	92.0	92.0	plus	5.72e-178	619	replicon
+CP000974_00005|rep_cluster_2358	NZ_JALJUQ010000064.1 Klebsiella pneumoniae strain P60-1 contig00064, whole genome shotgun sequence	528	3302	1	483	1169	1650	483	15	96.687	91.0	91.0	plus	0.0	802	replicon

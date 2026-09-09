@@ -1,0 +1,4 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+enterobacteriaceae	Col440I	90.91	110 / 114	JALJUN010000068.1 Klebsiella pneumoniae strain E4 contig00068, whole genome shotgun sequence	1066..1175		CP023920.1
+enterobacteriaceae	IncFIB(K)	98.93	560 / 560	JALJUN010000057.1 Klebsiella pneumoniae strain E4 contig00057, whole genome shotgun sequence	4928..5487	Kpn3	JN233704
+enterobacteriaceae	IncFII(K)	95.95	148 / 148	JALJUN010000033.1 Klebsiella pneumoniae strain E4 contig00033, whole genome shotgun sequence	44091..44238		CP000648

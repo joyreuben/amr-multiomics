@@ -1,0 +1,431 @@
+genome_id,genome_name,country,qc_status,species_prediction,contig_count,genome_length,n50,st,resistance_score,resistance_gene_count,bla_acquired,bla_esbl_acquired,bla_carb_acquired,virulence_score,k_type,o_type,plasmid_replicons
+w6MPevbE8wpJfQejowGtQZ,SAMN36884877,Ghana,Passed,Klebsiella pneumoniae,73,5668464,289737,ST39,1,,-,CTX-M-15,-,1,K23,"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+rpT6nbbz9R8UF6yARvuEyz,SAMN05960897,Nigeria,Passed,Klebsiella pneumoniae,79,5154903,235866,ST34,0,,-,-,-,0,unknown (KL154),"O11αβ,2α",Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR)
+wgAdqqd6Up7MEoM7Vt6GXb,SAMEA6654218,Ghana,Passed,Klebsiella pneumoniae,84,5609627,319758,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+wB3Fj8XZh7JhhN3cus12eN,SAMEA111505134,Nigeria,Passed,Klebsiella pneumoniae,62,5164766,156165,ST17,0,,-,-,-,0,unknown (KL105),O2β,
+fm2r9e8621BM8zH6Ly1sTk,SAMEA6155746,Nigeria,Passed,Klebsiella pneumoniae,76,5566139,408298,ST39,1,,LAP-2;OXA-1,CTX-M-15,-,0,unknown (KL116),"O1αβ,2α",IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(pKP91);repFIB
+9RhMYsQKag5K66mFK1tD7W,SAMEA6155852,Nigeria,Passed,Klebsiella pneumoniae,56,5789294,307975,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR)
+dSpqW4TtLMp5jxf16ShoPH,SAMEA6155959,Nigeria,Passed,Klebsiella pneumoniae,93,5704305,254722,ST392,2,,OXA-1,CTX-M-15,NDM-1,0,K27,O4,Col(pHAD28);ColpVC;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+qGZQwxzyQbG9xv2FqV4dvb,SAMEA7472389,Nigeria,Passed,Klebsiella pneumoniae,117,5269538,92452,ST307,0,,-,-,-,0,unknown (KL102),O2β,Col(pHAD28);ColpVC
+jBvDDt7BspaLmDx9ktp1U1,SAMEA6654212,Ghana,Passed,Klebsiella pneumoniae,79,5610405,270802,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+hqgrhRJ5wzXsFmNFw9knve,SAMEA111504603,Ghana,Passed,Klebsiella pneumoniae,81,5461145,184744,ST73,1,,SCO-1,CTX-M-15,-,1,K25,"O1αβ,2α",ColRNAI;IncFIB(K);IncFII(pKP91)
+tPC3fHPm4cUAQydyX8S6Nx,SAMEA6155842,Nigeria,Passed,Klebsiella pneumoniae,19,5123109,734720,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+xiaFujBbb97VoVyVGb2yFU,SAMEA6155926,Nigeria,Passed,Klebsiella pneumoniae,51,5577582,462530,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,IncFIB(K);IncFII(K)
+oB3TSFz5G1nGLNfPPZjaad,SAMN45807624,Nigeria,Passed,Klebsiella pneumoniae,43,5254688,294935,ST442,0,,SCO-1,-,-,0,unknown (KL146),O2β,IncFIB(K)(pCAV1099-114)
+oymroXCpnMLhvoznap35cu,SAMEA6155844,Nigeria,Passed,Klebsiella pneumoniae,66,5540754,407009,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440I;Col440II;IncFIA(HI1);IncFIB(K);IncFII(pKP91);IncR
+dqMxqA3iXxzipcgh6L1Jez,SAMN05960908,Nigeria,Passed,Klebsiella pneumoniae,115,5604538,237780,ST15,1,,OXA-1,CTX-M-15,-,0,K19,"O1αβ,2β",IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+vpw2ESM6jajoMQ2XEVU1uU,SAMEA111505117,Nigeria,Passed,Klebsiella pneumoniae,90,5268753,147349,ST3113,1,,-,CTX-M-15,-,0,unknown (KL146),"O1αβ,2β",Col(pHAD28);Col440II;IncR
+chJPYxhsbCDg8adwrZLafv,SAMEA111505125,Nigeria,Passed,Klebsiella pneumoniae,118,5359752,161911,ST4263,0,,-,-,-,0,K25,O5,Col(pHAD28);IncFIB(K)
+3ndyvGuykXzTNVihqbCEFm,SAMEA7472352,Nigeria,Passed,Klebsiella pneumoniae,124,5325510,150705,ST340,1,,-,CTX-M-15,-,0,K15,O4,Col(BS512);Col(pHAD28);Col440I;Col440II;IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+vSayktwZYDYJyC8Bz6RM7t,SAMEA6422737,Nigeria,Passed,Klebsiella pneumoniae,76,5662252,263204,ST15,2,,OXA-1,CTX-M-15,NDM-1,1,Capsule null,"O1αβ,2α",Col(pHAD28);Col440I;ColpVC;IncFIA(HI1);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncR
+2zgoyJTUXSoaq7L6h7QWn6,SAMEA6155878,Nigeria,Passed,Klebsiella pneumoniae,47,5425956,439199,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+ef91Cfz9yTsJS9F1xvdgfC,SAMEA6422734,Nigeria,Passed,Klebsiella pneumoniae,110,5639168,377992,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(BS512);Col440I;IncFIB(K);IncFII(K)
+nxRWuuvbXsuD3fkU81Pka5,SAMEA4785019,Nigeria,Passed,Klebsiella pneumoniae,101,5875118,232142,ST147,2,,OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR)
+9sCrDmU7GUKoZJiBUQX7Ju,SAMEA7472470,Nigeria,Passed,Klebsiella pneumoniae,69,5457627,263802,ST13,1,,-,CTX-M-15,-,0,K3,"O1αβ,2β",ColRNAI;IncFIA(HI1);IncFIB(K);IncFII(K)
+fP65g7jgZat9zmySmmcDEH,SAMEA6654240,Ghana,Passed,Klebsiella pneumoniae,135,5755616,143760,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncX3
+1QC6gsyR4pdPR6Arv3PofN,SAMEA7472508,Nigeria,Passed,Klebsiella pneumoniae,93,5374612,229288,ST442,2,,OXA-1,CTX-M-15,NDM-1,0,K28,O2α,Col(pHAD28);ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+wN3gr2Xzq26k75wUJNBtC1,SAMEA6155785,Nigeria,Passed,Klebsiella pneumoniae,87,5269197,194879,ST502,1,,SCO-1,CTX-M-15,-,0,K15,O4,Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);RepB;repB(R1701)
+vTLBnVx7RFdfifC3vCaVvn,SAMEA6155816,Nigeria,Passed,Klebsiella pneumoniae,23,5124201,734247,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+ru7Tt1Xx7t3XWW6LAU7GY6,SAMN05960943,Nigeria,Passed,Klebsiella pneumoniae,50,5569326,324217,ST420,1,,-,CTX-M-15,-,0,K20,"O1αβ,2α",Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFII(K);IncR
+sw6a6rkZJH6Mb4A3jHLFfK,SAMEA6155817,Nigeria,Passed,Klebsiella pneumoniae,72,5488601,476255,ST4,1,,OXA-1,CTX-M-15,-,0,K13,"O1αβ,2α",Col(pHAD28);IncFIA(pBK30683);IncFIB(K);IncFII(K)
+bL6NJqitzvkQG79RwxfPZo,SAMEA111504606,Ghana,Passed,Klebsiella pneumoniae,105,5717452,174902,ST25,2,,LAP-2;TEM-190^;OXA-1,CTX-M-15,OXA-181,1,K2,"O1αβ,2β",Col(pHAD28);ColKP3;IncFIB(K)(pCAV1099-114);IncFII;IncX3
+gz4qmnkBjJwDq7sn2xK47Y,SAMEA4785017,Nigeria,Passed,Klebsiella pneumoniae,97,5494371,220755,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncFIB(pQil);IncFII(K);IncR
+os9PxKsnWVQ1yaa4MF8a6c,SAMEA111504611,Ghana,Passed,Klebsiella pneumoniae,90,5601180,229865,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+iCV5KZtRkyPyEau49JCQkr,SAMN36884875,Ghana,Passed,Klebsiella pneumoniae,127,5773103,225351,ST464,1,,LAP-2;OXA-1,CTX-M-15,-,1,K53,"O1αβ,2α",ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFII;IncFII(K);IncHI1B(pNDM-MAR);repB(R1701)
+2H7LhawUkgSTwFeNQbsHfx,SAMN36943779,Nigeria,Passed,Klebsiella pneumoniae,150,5209856,102997,ST742-1LV,0,,-,-,-,0,unknown (KL120),O4,Col(pHAD28);IncFIB(K);IncFII(K);IncR;repB(R1701)
+aHqRui8jXfGrasdZ9o7RMw,SAMEA7472505,Nigeria,Passed,Klebsiella pneumoniae,102,5653306,220949,ST464,2,,OXA-1,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+ajk5KRQbpVw1sMvcdSbbn1,SAMN05960949,Nigeria,Passed,Klebsiella pneumoniae,87,5552343,197288,ST17,1,,-,CTX-M-15,-,1,K25,O5,Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+9EK6nFkQxjy3n4a8BZUhs5,SAMN36884884,Ghana,Passed,Klebsiella pneumoniae,75,5492889,246013,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,0,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+opgxhkceTYBhoHePQ7i3J2,SAMEA111505116,Nigeria,Passed,Klebsiella pneumoniae,100,5668121,172690,ST147,2,,OXA-9.v1;OXA-1,CTX-M-15,NDM-1,1,Capsule null,O2α,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFIB(pQil);IncR;RepB
+3CZfqkzSWZLhnUJapfWebH,SAMN41988748,Ghana,Passed,Klebsiella pneumoniae,64,5372577,320364,ST964,0,,-,-,-,0,unknown (KL103),"O1αβ,2α",IncFIA(HI1);IncFIB(K);IncY
+k4M3rSMsx1QNStuBYozfXJ,SAMN05960886,Nigeria,Passed,Klebsiella pneumoniae,57,5431778,333576,ST48,1,,-,CTX-M-15;SHV-12,-,1,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncN
+17cjBXCud4W8WzY9Adcadf,SAMEA6654231,Ghana,Passed,Klebsiella pneumoniae,79,5756635,375724,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+8JbGkEtkonwzJzAFhjvvPP,SAMEA7472509,Nigeria,Passed,Klebsiella pneumoniae,112,5360306,169093,ST442,2,,OXA-1,CTX-M-15,NDM-1,0,K28,O2α,Col(pHAD28);ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+vJZE3Nvvtpj7S7mzx9aBLJ,SAMEA6155781,Nigeria,Passed,Klebsiella pneumoniae,18,5124243,734680,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+1ZKLGKjWkBqdJjheeB9mFL,SAMN05960879,Nigeria,Passed,Klebsiella pneumoniae,88,5592655,377425,ST1263,1,,-,SHV-12,-,0,K10,O3αβ,Col(pHAD28);IncFIA(HI1);IncFIB(K);IncN;IncY
+8YnVyxHA7nqtqzDfQdJ3mB,SAMEA8515137,Nigeria,Passed,Klebsiella pneumoniae,112,5643771,136001,ST464,2,,OXA-1,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncX3
+5Vzojp1ehDS15wUpA1k7aJ,SAMEA111505122,Nigeria,Passed,Klebsiella pneumoniae,105,5574750,185870,ST1552,1,,OXA-1,CTX-M-15,-,0,K25,"O1αβ,2α",Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+pnFzwi6DT6U9P7HitW1FMj,SAMEA4785011,Nigeria,Passed,Klebsiella pneumoniae,116,5692219,207847,ST15,2,,-,-,NDM-1,1,K48,"O1αβ,2α",Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pQil);IncFII(K);IncR
+dZfePqBBSqwaWSZP1wwyxd,SAMEA111504607,Ghana,Passed,Klebsiella pneumoniae,58,5440994,203878,ST218,0,,-,-,-,4,K57,O2β,RepB;repB
+aV1sM8V81ttSdPBmseMK66,SAMN05960907,Nigeria,Passed,Klebsiella pneumoniae,71,5665118,286197,ST147,1,,SCO-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(K);IncFII(K)
+iatBhmBrmLiAAiLsaRp5YH,SAMEA6422766,Nigeria,Passed,Klebsiella pneumoniae,62,5497045,334974,ST15,1,,OXA-1,CTX-M-15,-,0,K19,"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+hN9QXqRKzHjwKe8aeifrGQ,SAMEA4785012,Nigeria,Passed,Klebsiella pneumoniae,94,5497370,196863,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(pQil);IncFII(K);IncR
+aWGoHCv91FJnnizvSsmbKE,SAMN05960958,Nigeria,Passed,Klebsiella pneumoniae,32,5198329,410840,ST45,0,,-,-,-,1,K43,O2α,
+jpRJy2sHoCEddK5MzjPAm8,SAMEA111504612,Ghana,Passed,Klebsiella pneumoniae,79,5427564,248565,ST1119,1,,-,CTX-M-15,-,0,unknown (KL110),O3γ,IncFIB(K)(pCAV1099-114);IncR;repFIB
+jTcoqu2MdhH2h4g6svP51p,SAMN41988737,Ghana,Passed,Klebsiella pneumoniae,72,5670518,303016,ST36,1,,-,CTX-M-15,-,1,K62,O2α,IncFIA(HI1);IncFIB(K);IncFII(K);repB(R1701)
+kUP4v3dKJP9skf3bHvwXUu,SAMN05960904,Nigeria,Passed,Klebsiella pneumoniae,68,5162181,199781,ST3613,0,,-,-,-,0,unknown (KL166),"O11αβ,2γ",Col(MGD2);Col440I;IncFIA(HI1)
+kqYjA4z1VWxyg1LQ1akVnQ,SAMEA6155866,Nigeria,Passed,Klebsiella pneumoniae,48,5522518,409740,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440II;IncFIB(K);IncFII(pKP91)
+uc7XTeozGMpUiurZSWSuWM,SAMN05960925,Nigeria,Passed,Klebsiella pneumoniae,69,5586859,281584,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,IncFIB(K);IncFII(K)
+xhNWCcrWXPqL9Ru7rU3mrt,SAMN05960895,Nigeria,Passed,Klebsiella pneumoniae,58,5488037,279596,ST15,1,,OXA-1,CTX-M-15,-,1,unknown (KL112),"O1αβ,2α",IncFIA(HI1);IncFIB(K);IncFII(pKP91);IncR;repB(R1701)
+mbBUQEkWPfbuxaRBM3VeNf,SAMEA6155829,Nigeria,Passed,Klebsiella pneumoniae,89,5761291,321397,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+pvabPX7NiEvSwjZkUUaUuv,SAMN36884878,Ghana,Passed,Klebsiella pneumoniae,87,5744966,319268,ST39,1,,-,CTX-M-15,-,1,K23,"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFII;IncFII(K);IncR
+dyToryGFYPUg65sMmJ5YhD,SAMN05960881,Nigeria,Passed,Klebsiella pneumoniae,91,5594041,279938,ST1263,1,,-,SHV-12,-,0,K10,O3αβ,Col(pHAD28);IncFIA(HI1);IncFIB(K);IncN;IncY
+wTdMVFMhJBMNS9NczV2jFY,SAMEA7472442,Nigeria,Passed,Klebsiella pneumoniae,110,5717304,334557,ST39,1,,OXA-1,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFII(pBK30683);IncR
+8Zy84MWZMiScmkJwsiFnyQ,SAMEA111505123,Nigeria,Passed,Klebsiella pneumoniae,184,5292800,94724,ST3157,0,,-,-,-,0,K30,"O1αβ,2β",Col440I;IncFIB(K);IncFIB(pQil);IncFII(K);IncR
+rvGui5euCpQhNxbsBaxRQK,SAMEA6155778,Nigeria,Passed,Klebsiella pneumoniae,19,5123507,734485,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+koB4JkyTa9iuBJaS6ynr2d,SAMN46427849,Nigeria,Passed,Klebsiella pneumoniae,59,5434412,422635,ST464,1,,OXA-1,CTX-M-15,-,0,K53,"O1αβ,2α",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR)
+j62D2jwXVD9t2v2ZiXNj24,SAMEA6155834,Nigeria,Passed,Klebsiella pneumoniae,17,5123462,734247,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+r22EXMLiW4Z32nTtPaYYRY,SAMEA6158235,Nigeria,Passed,Klebsiella pneumoniae,124,5130106,99473,ST340,1,,-,CTX-M-15,-,0,K15,O4,IncFIA(HI1);IncR;repB(R1701)
+wnY8BLJvKiKJj8EKgNEMqp,SAMEA111505139,Nigeria,Passed,Klebsiella pneumoniae,146,5813282,150751,ST392,2,,OXA-1,CTX-M-15,NDM-1,0,K27,O4,Col(pHAD28);Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+hv4tdSDtdCJiL7h8Erv8Qw,SAMEA7472507,Nigeria,Passed,Klebsiella pneumoniae,106,5370520,236727,ST442,2,,-,CTX-M-15,NDM-1,0,Capsule null,O2α,Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+bJZWZD2FSBUWqM6DtiggqM,SAMEA7472468,Nigeria,Passed,Klebsiella pneumoniae,83,5582501,220998,ST464,2,,-,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(pQil);IncFII(K);IncX3
+xyGww7Z1sR6wErTvaU1AXk,SAMN05960898,Nigeria,Passed,Klebsiella pneumoniae,67,5511802,279860,ST4,1,,-,CTX-M-15,-,0,K13,"O1αβ,2α",IncFIB(K);IncFII(K);IncR
+4mRJucNety59xcCC1tY51j,SAMEA6422764,Nigeria,Passed,Klebsiella pneumoniae,80,5540310,203867,ST73,1,,OXA-1,CTX-M-15,-,1,K25,"O1αβ,2α",Col(IMGS31);Col(pHAD28);IncFIB(K);IncFII(K)
+emScuqyhFJCc1HeEFEmvuE,SAMEA6155893,Nigeria,Passed,Klebsiella pneumoniae,47,5424476,439597,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+pW1Kpbr4jEfJfJpkB7udD1,SAMEA6155826,Nigeria,Passed,Klebsiella pneumoniae,51,5579911,430036,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+r8hvFxtWhiAbUyg1kwXsir,SAMEA7472515,Nigeria,Passed,Klebsiella pneumoniae,67,5199275,261398,ST530,1,,-,CTX-M-15,-,1,K62,"O1αβ,2β",IncFIB(K)
+kdUfqfNFMSrgBoucX5xvfP,SAMEA7472372,Nigeria,Passed,Klebsiella pneumoniae,50,5652357,280609,ST45,1,,-,CTX-M-15,-,1,K52,O13,Col440I;IncFIB(K);IncFII(K);IncQ1
+8UQhM26DjirjJRY7tk4fiJ,SAMEA7472405,Nigeria,Passed,Klebsiella pneumoniae,84,5472680,337412,ST133,1,,-,CTX-M-15,-,0,unknown (KL116),"O1αβ,2α",IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);IncR;repFIB
+j9ZShn3RZeenuS7oiH6gYa,SAMEA6155855,Nigeria,Passed,Klebsiella pneumoniae,45,5427520,369069,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+viX7qNyijfnBPd9ruFm8we,SAMEA7472517,Nigeria,Passed,Klebsiella pneumoniae,43,5397496,315681,ST76,0,,-,-,-,1,K10,O3αβ,IncX3
+mhumFeLBiEKJ31MhCzA8vb,SAMN36884891,Ghana,Passed,Klebsiella pneumoniae,80,5441187,215128,ST4332,1,,-,CTX-M-15,-,0,unknown (KL171),O3γ,Col440I;IncFIB(K);IncFII(K);IncY
+nxs8abV3G6H4G7mikPrnuF,SAMEA6422761,Nigeria,Passed,Klebsiella pneumoniae,42,5372566,363912,ST219,1,,-,CTX-M-15,-,0,unknown (KL114),"O1αβ,2α",Col440I;IncFIB(K)(pCAV1099-114);RepB
+bS81DVrppm6u5fWTkYFQ7B,SAMEA6422785,Nigeria,Passed,Klebsiella pneumoniae,83,5654869,249812,ST147,1,,-,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(K);IncFII(K);IncR
+5CNpBnF5H4n9eHHomRLzQT,SAMEA6155865,Nigeria,Passed,Klebsiella pneumoniae,43,5491216,370914,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440II;IncFIB(K);IncFII(pKP91)
+utzjj6oLjCnX7gZM8dEmkc,SAMEA111505126,Nigeria,Passed,Klebsiella pneumoniae,157,5652758,100963,ST15,1,,OXA-1,CTX-M-15,-,1,K24,"O1αβ,2α",Col(pHAD28);Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);IncR;repFIB
+aFmgnCiB28KNQAe6qxxKur,SAMEA7472371,Nigeria,Passed,Klebsiella pneumoniae,79,5196967,149533,ST76,0,,-,-,-,0,K31,O3αβ,Col(pHAD28);IncFIA(pBK30683);IncFII(pMET);repB(R1701)
+cocDC5PVaDCsHxNGfWc5k3,SAMEA6422756,Nigeria,Passed,Klebsiella pneumoniae,23,5051112,470022,ST5248,0,,-,-,-,0,K31,O3γ,Col(pHAD28)
+8kVbukWkaFEqdXzhiXoBpf,SAMEA6155853,Nigeria,Passed,Klebsiella pneumoniae,43,5519436,391929,ST342,1,,TEM-103*,CTX-M-15,-,1,K30,"O1αβ,2β",IncFIB(K);IncFII(K)
+kaiogLxCJLSa245NCTkt9g,SAMN05960956,Nigeria,Passed,Klebsiella pneumoniae,61,5464941,367135,ST716,1,,OXA-1,CTX-M-15,-,1,unknown (KL110),O2α,Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFII(K)
+oGSv5BjAnBd2ofvw7ZBZEz,SAMEA6654232,Ghana,Passed,Klebsiella pneumoniae,100,5750957,387770,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+cdbaGrHDemPtw1BgydfcvJ,SAMN36884876,Ghana,Passed,Klebsiella pneumoniae,103,5613901,239299,ST14,1,,OXA-1^,CTX-M-15,-,0,K2,"O1αβ,2α",IncFIA(HI1);IncFIB(K);IncFII(K)
+6Yx8hEXhsdHNMdjcnHpdXj,SAMEA6155833,Nigeria,Passed,Klebsiella pneumoniae,68,5546421,341358,ST111,1,,SCO-1,CTX-M-15,-,0,K63,"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncR
+hAbwaa2M11aDucG5dNcx6N,SAMEA6155807,Nigeria,Passed,Klebsiella pneumoniae,60,5554592,479738,ST22,1,,-,CTX-M-15,-,0,K9,O2β,Col(pHAD28);IncFIB(K);IncFIB(pKPHS1);IncFII(pKP91);IncR;IncY
+dgL11DroRQLtr1f55o8bTr,SAMN05960906,Nigeria,Passed,Klebsiella pneumoniae,75,5662239,258695,ST147,1,,SCO-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(K);IncFII(K)
+kVaSn9PWDtVoXozYzBTQFk,SAMEA111504609,Ghana,Passed,Klebsiella pneumoniae,85,5693111,230038,ST147,2,,OXA-9.v1;OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFIB(pQil);IncR;RepB;repFIB
+rSffqw8uKXHjTgvArFBgq7,SAMEA6155858,Nigeria,Passed,Klebsiella pneumoniae,61,5532930,388799,ST392,1,,OXA-1,CTX-M-15,-,0,K27,O4,Col(pHAD28);IncFIB(K);IncFII(K)
+miwMhf78aTEavL2snrWv8o,SAMEA6155789,Nigeria,Passed,Klebsiella pneumoniae,46,5425973,352306,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+bV4RhJMeAGN5HN3w7U73N2,SAMEA8515127,Nigeria,Passed,Klebsiella pneumoniae,140,5496235,145545,ST244,2,,OXA-1,CTX-M-15,NDM-1,1,unknown (KL155),O13,IncFIA(pBK30683);IncFIB(K)
+vtgvqBT53v8fF46ctdA8wB,SAMEA6155877,Nigeria,Passed,Klebsiella pneumoniae,22,5121762,478691,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+umyMDwpZFUJdhx8vnF28oZ,SAMEA6155773,Nigeria,Passed,Klebsiella pneumoniae,43,5412690,653144,ST5243,0,,-,-,-,0,K12,"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+aipP1e8eQesusYkxTMLP3u,SAMEA6155929,Nigeria,Passed,Klebsiella pneumoniae,54,5574568,406006,ST219,2,,-,CTX-M-15,OXA-48,0,unknown (KL114),"O1αβ,2α",Col440I;IncFIB(K)(pCAV1099-114);IncFII(pKP91);IncL;IncR;RepB
+cLnu3gj3nHHhWDddjKVqpA,SAMEA6155847,Nigeria,Passed,Klebsiella pneumoniae,59,5536106,383721,ST392,1,,OXA-1,CTX-M-15,-,0,K27,O4,Col(pHAD28);IncFIB(K);IncFII(K)
+92wiTibEdTeNBpqY17uE8E,SAMEA6422771,Nigeria,Passed,Klebsiella pneumoniae,50,5382200,314068,ST5239,0,,-,-,-,0,unknown (KL162),unknown (OL14),Col(pHAD28);IncFIB(K)
+dAkZRDf8BnMSmHg38GM8rm,SAMN05960921,Nigeria,Passed,Klebsiella pneumoniae,53,5794654,410759,ST1788,2,,OXA-1,CTX-M-15,OXA-48,1,K2,"O1αβ,2β",IncFIB(K);IncFIB(pKPHS1);IncFII(K);IncL
+eH94miV6WHVNfQjumX6o7R,SAMEA6155843,Nigeria,Passed,Klebsiella pneumoniae,21,5122039,479836,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+mZQaeb3FczXTW5Z5S3MwVo,SAMEA7472409,Nigeria,Passed,Klebsiella pneumoniae,57,5186998,304964,ST592,0,,-,-,-,3,K57,O3γ,Col(pHAD28);IncHI1B(pNDM-MAR);repB
+7hnX9PJywogzyRrzeEeVfk,SAMN05960873,Nigeria,Passed,Klebsiella pneumoniae,61,5586255,285266,ST873,1,,LAP-2,CTX-M-14,-,0,K38,O3γ,IncFIB(K);IncFII(pKP91);repB(R1701)
+ppPWXTxt911sQikKZ64yQ2,SAMEA111505118,Nigeria,Passed,Klebsiella pneumoniae,84,5512475,207741,ST5469,1,,-,CTX-M-15,-,0,unknown (KL180),"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+4rJRoHYr5NR82wGsPzD5vn,SAMEA6155876,Nigeria,Passed,Klebsiella pneumoniae,152,5687042,182034,ST502,1,,SCO-1;OXA-1,CTX-M-15,-,0,K15,O4,Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncFII(pBK30683);IncHI1B(pNDM-MAR);IncR;RepB
+4Rve9vkKjgmV9RdsLuAftK,SAMN31892430,Ghana,Passed,Klebsiella pneumoniae,80,5281734,172346,ST65,0,,-,-,-,3,K2,"O1αβ,2α",IncHI1B(pNDM-MAR);repB
+k6jL9xWt1Di2np5pYwysKb,SAMEA6635864,Nigeria,Passed,Klebsiella pneumoniae,94,5763365,252436,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+azNWjydAsZsWq5oBkJZpsG,SAMEA7472511,Nigeria,Passed,Klebsiella pneumoniae,117,5824339,150479,ST348,1,,SCO-1;OXA-1,CTX-M-15,-,1,K62,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+bdwVoBzdHnEN9SvqNbikxT,SAMN05960957,Nigeria,Passed,Klebsiella pneumoniae,65,5462152,239205,ST716,1,,OXA-1,CTX-M-15,-,1,unknown (KL110),O2α,Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFII(K)
+8iTG3rswnZSXfdyUnnin2P,SAMEA6155792,Nigeria,Passed,Klebsiella pneumoniae,72,5532180,321945,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,0,K2,"O1αβ,2β",Col440I;IncFIB(K)(pCAV1099-114)
+fs5SV1mCiSjT1fyFMjF6VZ,SAMEA6654216,Ghana,Passed,Klebsiella pneumoniae,79,5613150,344484,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+cGYL9WzsyTTm9hRXfqGYGn,SAMEA7472380,Nigeria,Passed,Klebsiella pneumoniae,164,5143853,61623,ST4408,0,,-,-,-,0,K46,O3γ,IncFIB(K);IncFIB(pKPHS1)
+iU6qbLVcAJ8i2C414QCBri,SAMEA7472477,Nigeria,Passed,Klebsiella pneumoniae,55,5511400,319804,ST40,0,,-,-,-,0,unknown (KL155),O13,Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncQ1
+pbnK26AZXgQgjnJLjZv9wx,SAMEA6155779,Nigeria,Passed,Klebsiella pneumoniae,19,5122439,734765,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+mU9yEWqCpyz52t5ggREiez,SAMN05960966,Nigeria,Passed,Klebsiella pneumoniae,79,5556965,227618,ST17,1,,-,CTX-M-15;SHV-12^,-,1,K25,O5,Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+85vFfmMxAWjqo18pNuvhoz,SAMEA4785013,Nigeria,Passed,Klebsiella pneumoniae,105,5494548,196862,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncFIB(pQil);IncFII(K);IncR
+8LLpFVCdS1PrSrLbyHVaST,SAMN41988735,Ghana,Passed,Klebsiella pneumoniae,52,5455565,397739,ST86,0,,-,-,-,3,K2,"O1αβ,2α",IncFIA(HI1);IncHI1B(pNDM-MAR);IncR;repB
+43FEb4GXdhp3cEAaSbWjBv,SAMEA7472411,Nigeria,Passed,Klebsiella pneumoniae,49,5190825,304965,ST592,0,,-,-,-,3,K57,O3γ,Col(pHAD28);IncHI1B(pNDM-MAR);repB
+uUpNEneKmgYQtETf9ghiUv,SAMEA7472462,Nigeria,Passed,Klebsiella pneumoniae,78,5549348,208082,ST39,1,,-,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFII(K)
+c9h9kcdQiPzKhFFe3UtP9v,SAMEA6155838,Nigeria,Passed,Klebsiella pneumoniae,43,5410733,451954,ST5243,0,,-,-,-,0,K12,"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+jKvEssiC3yAVNGhJtayyUD,SAMEA6654220,Ghana,Passed,Klebsiella pneumoniae,89,5669714,265288,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncFII(K);IncQ1;IncX3;repB(R1701)
+v14mp2i8gwWnMRM21sjxpA,SAMEA6155854,Nigeria,Passed,Klebsiella pneumoniae,44,5425161,369270,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+m2GtyCCQgQRVk91EqqtwyE,SAMEA4785007,Nigeria,Passed,Klebsiella pneumoniae,99,5599755,176645,ST340,2,,-,CTX-M-15;SHV-12,NDM-1,0,K15,O4,Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR;repB(R1701)
+hoocsxPfXfnsg2XLutMNAK,SAMEA7472365,Nigeria,Passed,Klebsiella pneumoniae,125,5807373,205214,ST4410,2,,OXA-1,CTX-M-15,NDM-1,1,unknown (KL116),"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR
+9z1oeZUBBJAF8C3UyBvx4E,SAMEA12311723,Ghana,Passed,Klebsiella pneumoniae,164,5495723,145725,ST152,2,,OXA-1,CTX-M-15^,NDM-1;OXA-48,0,unknown (KL149),O4,Col(pHAD28);ColRNAI;IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);repB(R1701)
+mjYYGyn7pj1GTEgBMVbm57,SAMEA6155872,Nigeria,Passed,Klebsiella pneumoniae,83,6021322,203585,ST15,1,,OXA-1,CTX-M-15,-,1,K24,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+2mJG6aY8YTfLy2ghLcMvcU,SAMEA7472355,Nigeria,Passed,Klebsiella pneumoniae,55,5649976,280609,ST45,1,,-,CTX-M-15,-,1,K52,O13,Col440I;IncFIB(K);IncFII(K);IncQ1
+gnwExAtn8aB3Sh7bHjWrkW,SAMEA6422780,Nigeria,Passed,Klebsiella pneumoniae,68,5394123,288645,ST1119,1,,-,CTX-M-15,-,0,unknown (KL110),O3γ,IncFIB(K)(pCAV1099-114);repFIB
+pkNR3coqAs41UDm1TjHtVx,SAMEA6155869,Nigeria,Passed,Klebsiella pneumoniae,44,5517161,381477,ST342,1,,TEM-103*,CTX-M-15,-,1,K30,"O1αβ,2β",IncFIB(K);IncFII(K)
+wGwgZmQ8x9oZcrAjjxfoDy,SAMEA6654224,Ghana,Passed,Klebsiella pneumoniae,47,5753654,1077390,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+pcrXU5kynsB1PCESpWGNH4,SAMN31892426,Ghana,Passed,Klebsiella pneumoniae,65,5608328,347188,ST25,0,,-,-,-,3,K2,"O1αβ,2β",IncFIA(pBK30683)
+bjsEga6MiZDiitdb3bdRiH,SAMN05960938,Nigeria,Passed,Klebsiella pneumoniae,43,5477500,552915,ST429,1,,OXA-1,CTX-M-15,-,0,K27,O4,IncFIB(K);IncFII(K)
+phs67xfBWNQemLZ4RhzKqc,SAMEA6155814,Nigeria,Passed,Klebsiella pneumoniae,90,5766692,321196,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+wLmNuoXQx7aJEsUNtVkqeQ,SAMEA6422736,Nigeria,Passed,Klebsiella pneumoniae,116,5780757,344543,ST70,1,,OXA-1,CTX-M-15,-,0,unknown (KL122),"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(pBK30683);IncFII(pKP91);IncHI1B(pNDM-MAR);IncR;repFIB
+3DKNa7b6peEvLjs1NJ8Yg9,SAMN05960963,Nigeria,Passed,Klebsiella pneumoniae,80,5518715,357395,ST45,1,,-,CTX-M-15,-,0,K20,O3αβ,Col440I;IncFIA(pBK30683);IncFIB(K);IncFII(K)
+9FMy9xUJMnFcAwdgXVsANU,SAMN05960962,Nigeria,Passed,Klebsiella pneumoniae,34,5170668,401133,ST3688,0,,-,-,-,0,K28,O2α,
+ckAG3EVebxB4xi7aNYvhEA,SAMEA6155859,Nigeria,Passed,Klebsiella pneumoniae,20,5186335,582840,ST3071,0,,-,-,-,0,K31,O3γ,
+83GFGNxEQ55fVsFYZGs5gK,SAMEA6155862,Nigeria,Passed,Klebsiella pneumoniae,85,5636272,323746,ST185,0,,-,-,-,0,unknown (KL130),"O1αβ,2β",IncFIB(K);IncFII(K);IncR;repB(R1701)
+tfFNVKNbmL8cWoRQhNWp59,SAMEA6422735,Nigeria,Passed,Klebsiella pneumoniae,39,5468880,361062,ST5240,1,,-,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+vJYckjzrYprKU3MEzNj7Fp,SAMEA111503612,Benin,Passed,Klebsiella pneumoniae,69,5548925,299316,ST48,1,,-,CTX-M-15,-,1,unknown (KL124),"O1αβ,2α",Col(pHAD28);ColRNAI;IncFIB(K);IncFII(K)
+gHwCs7jfA2m26zJTwoQDE1,SAMN05960902,Nigeria,Passed,Klebsiella pneumoniae,47,5239663,292307,ST3612,0,,-,-,-,0,unknown (KL151),O3γ,
+6GDQioRLuUjGgXBvzJ15SN,SAMEA6155875,Nigeria,Passed,Klebsiella pneumoniae,55,5580341,430255,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+5eG887v1RUpSkjdGw8sGgS,SAMN36884883,Ghana,Passed,Klebsiella pneumoniae,75,5413527,307827,ST152,1,,OXA-1,CTX-M-15,-,1,unknown (KL149),O4,Col(pHAD28);ColRNAI;IncFIB(K);IncFII(K);repB(R1701)
+fvPMyr5PwYZ9hLw15vxCDJ,SAMEA111504604,Ghana,Passed,Klebsiella pneumoniae,83,5637811,223409,ST35,0,,-,-,-,0,K21,"O1αβ,2α",IncFIA(HI1);IncFII(pCTU2);IncR;pESA2;repB(R1701)
+jKtntykrHw7dbtizkJY58n,SAMEA6155883,Nigeria,Passed,Klebsiella pneumoniae,21,5121823,416908,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+2zPTZkh76qfbRoz5iw4sY1,SAMEA111505128,Nigeria,Passed,Klebsiella pneumoniae,168,5467915,96373,ST252,0,,-,-,-,0,Capsule null,"O1αβ,2α",Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);IncR
+qXXvn6JkA1n3XnLWZL5pXq,SAMEA6654219,Ghana,Passed,Klebsiella pneumoniae,77,5610745,374724,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+8Xgc52vtKZVkfHJUruR9Y2,SAMEA111504615,Ghana,Passed,Klebsiella pneumoniae,65,5468678,179955,ST25,0,,-,-,-,3,K2,"O1αβ,2β",IncHI1B(pNDM-MAR);repB
+8ZSgD6stSFnVwrq7ktKyXW,SAMEA6422777,Nigeria,Passed,Klebsiella pneumoniae,71,5554255,307016,ST967,1,,-,CTX-M-15,-,0,K18,"O1αβ,2β",IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);IncR
+r4AoMQg5rneJcvC4fvfkPH,SAMN45807625,Nigeria,Passed,Klebsiella pneumoniae,63,5578628,333905,ST39,1,,SCO-1,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);repFIB
+kgF7ju1JDHCHz9o4VMNQ91,SAMN05960882,Nigeria,Passed,Klebsiella pneumoniae,102,5627094,152542,ST25,1,,-,CTX-M-15,-,0,K2,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+7p9Cky8RYKxpUFo3fVUd3B,SAMEA4785009,Nigeria,Passed,Klebsiella pneumoniae,96,5495191,198738,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncFIB(pQil);IncFII(K);IncR
+p6tXQwFHWQ5v1iYXYbG3Nk,SAMEA7472390,Nigeria,Passed,Klebsiella pneumoniae,102,5247011,167810,ST1035,0,,-,-,-,0,K57,"O1αβ,2β",Col440I;IncFIB(K);IncFII(pKP91)
+94KiySvHMunwJLkimJxpF9,SAMEA6155798,Nigeria,Passed,Klebsiella pneumoniae,54,5455818,463088,ST4,1,,OXA-1,CTX-M-15,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncR
+sxBhCqe6JfCuhqcVxJ64TP,SAMN05960937,Nigeria,Passed,Klebsiella pneumoniae,44,5478722,399410,ST429,1,,OXA-1,CTX-M-15,-,0,K27,O4,IncFIB(K);IncFII(K)
+tnaMM8Jew5zJav2r6TgpGL,SAMN36884886,Ghana,Passed,Klebsiella pneumoniae,56,5456114,456557,ST280,1,,OXA-1,CTX-M-15,-,0,K23,O2β,IncFIB(K);IncFII(K)
+jmUDKLwZX2hKEkNjdsmyB4,SAMEA6155909,Nigeria,Passed,Klebsiella pneumoniae,60,5407948,257140,ST242,1,,OXA-1^,CTX-M-15,-,0,unknown (KL183),O13,Col(pHAD28);IncFIA(HI1);IncFII(K);IncR;repB(R1701)
+eHV5akLFSxPCw6DHExHqfW,SAMEA7472489,Nigeria,Passed,Klebsiella pneumoniae,119,5638066,164776,ST464,2,,-,CTX-M-15^,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+7LgrgfhCCcAtm1zUX8QJRr,SAMEA6422746,Nigeria,Passed,Klebsiella pneumoniae,43,5549833,377105,ST147,2,,OXA-9.v1,CTX-M-15,NDM-1,1,K64,O2α,Col(pHAD28);IncFIB(pKPHS1);IncFIB(pQil);IncR
+8jXG7iH86drY6gQMgCinc4,SAMEA6155928,Nigeria,Passed,Klebsiella pneumoniae,74,6026939,218199,ST15,1,,OXA-1,CTX-M-15,-,1,K24,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+9LVQVQ8TSA1bP3abTZgCxt,SAMEA6155891,Nigeria,Passed,Klebsiella pneumoniae,94,5654270,284840,ST5244,1,,OXA-1*,CTX-M-15,-,1,unknown (KL112),"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+35HdoqhevFZ7ogKPvWK6MG,SAMEA6654244,Ghana,Passed,Klebsiella pneumoniae,50,5583218,427548,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+nfWUVQ7io1bTNgXQArzTgB,SAMEA6422783,Nigeria,Passed,Klebsiella pneumoniae,84,5694534,314467,ST101,0,,OXA-1,-,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440I;Col440II;ColRNAI;IncFIB(K);IncFII(pKP91);IncM2
+r8kPKmfLUtjTQHXvob6CDa,SAMEA8515138,Nigeria,Passed,Klebsiella pneumoniae,155,5695484,226921,ST20,2,,-,CTX-M-15,NDM-1,0,K28,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncFII(pBK30683);IncHI1B(pNDM-MAR);repFIB
+x18NQidq7sicRzihob2BFF,SAMN05960899,Nigeria,Passed,Klebsiella pneumoniae,73,5581806,208060,ST25,1,,-,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);Col440II;IncFIB(K);IncFII(K);IncN
+ahpcz4JJbo98b5GoYf9pUj,SAMEA6155793,Nigeria,Passed,Klebsiella pneumoniae,27,5328273,361069,ST5246,0,,OXA-926*,-,-,0,K31,O3γ,IncFIB(K);IncFII(K)
+ey8XCQmUMpjkqHe1wfrKMu,SAMN36884887,Ghana,Passed,Klebsiella pneumoniae,114,5667247,214703,ST147,1,,OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII;IncHI1B(pNDM-MAR);IncR;repFIB
+gHRiH5GELXDMrX85tVKZ28,SAMEA111504602,Ghana,Passed,Klebsiella pneumoniae,89,5662574,330944,ST14,1,,OXA-1,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(pKP91)
+qCbmDssgHLcBae438R5Dyc,SAMEA4785016,Nigeria,Passed,Klebsiella pneumoniae,100,5494881,185840,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(pQil);IncFII(K);IncR
+iFAMgQEQ9r63a5vi8Ebd8V,SAMN05960916,Nigeria,Passed,Klebsiella pneumoniae,42,5449573,474466,ST48,1,,-,CTX-M-15,-,1,K62,"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFII(K)
+jTiRmR53by543rfq4UbbmC,SAMEA6654210,Ghana,Passed,Klebsiella pneumoniae,78,5597516,243192,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114)
+mXmvUBJsJ3NCEFC9wtxG9K,SAMEA111505137,Nigeria,Passed,Klebsiella pneumoniae,48,5220165,250675,ST45,0,,-,-,-,1,K62,O2α,IncFII(K);IncR
+okt9qZNhhLcsFeCFnXKnuK,SAMN05960929,Nigeria,Passed,Klebsiella pneumoniae,64,5463715,231164,ST48,1,,-,CTX-M-15,-,1,K62,"O1αβ,2α",Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+hbHdbHfoXrwNJcLBhzHvVm,SAMN05960924,Nigeria,Passed,Klebsiella pneumoniae,73,5497937,158270,ST73,0,,SCO-1;OXA-1,-,-,1,K25,"O1αβ,2α",Col(IRGK);Col(pHAD28);IncFIB(K);IncFII(pKP91)
+kBALZdVn7VujpzkzPa26An,SAMEA7472437,Nigeria,Passed,Klebsiella pneumoniae,63,5472377,342312,ST39,1,,-,CTX-M-15,-,1,K62,"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncQ1;RepB
+tTyCjY4Csbq3fyU8svwuo4,SAMEA111504600,Ghana,Passed,Klebsiella pneumoniae,72,5612878,303365,ST17,1,,-,CTX-M-15,-,1,unknown (KL155),O13,IncFIB(K);IncFII(K);IncL;IncR
+hxXhLzorgrHxR6NnkSrdqN,SAMEA6155892,Nigeria,Passed,Klebsiella pneumoniae,81,5369513,222026,ST340,1,,-,CTX-M-15;SHV-12^,-,0,K15,O4,IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+axVxmWyZzm8aS1bKjVkAnL,SAMEA6155808,Nigeria,Passed,Klebsiella pneumoniae,53,5795413,501072,ST716,2,,OXA-1,CTX-M-15,NDM-1,1,unknown (KL110),O2α,Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+34caPkcrqQNC2rujeV82s2,SAMEA7472490,Nigeria,Passed,Klebsiella pneumoniae,108,5601800,238916,ST39,1,,OXA-1,CTX-M-15,-,1,K23,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K);IncFIB(pQil);IncFII(K);IncR;repB(R1701)
+eRdZQySuxPmv3FVXxLg8yD,SAMEA7472512,Nigeria,Passed,Klebsiella pneumoniae,34,5189135,356267,ST170,0,,-,-,-,0,K54,"O1αβ,2β",
+csEo9XuSMWgYBzktbKmSSj,SAMEA6155787,Nigeria,Passed,Klebsiella pneumoniae,50,5576325,473591,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,IncFIB(K);IncFII(K)
+aeouxh2g1Te9sjQB2ycPTG,SAMEA4785014,Nigeria,Passed,Klebsiella pneumoniae,96,5497462,198180,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(pQil);IncFII(K);IncR
+eFTqiVDFVeLz3FoRKmGuTg,SAMN05960903,Nigeria,Passed,Klebsiella pneumoniae,76,5449337,226396,ST13,1,,OXA-1,CTX-M-15,-,0,K3,"O1αβ,2β",Col(pHAD28);Col440II;IncFIB(K);IncFII(K);repB(R1701)
+uqbGSJGG4JqDCK8bRXzBVM,SAMEA6155813,Nigeria,Passed,Klebsiella pneumoniae,59,5547209,261918,ST15,1,,OXA-1,CTX-M-15,-,1,K19,"O1αβ,2β",Col440I;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+deESyp4UGZFrjXdyBnMYd4,SAMEA112281697,Ghana,Passed,Klebsiella pneumoniae,102,5660832,199295,ST147,1,,OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII;IncHI1B(pNDM-MAR);IncR;repFIB
+aaFzZcsBR9xtdcU9RYjc7z,SAMEA6156056,Nigeria,Passed,Klebsiella pneumoniae,43,5522343,350459,ST342,1,,TEM-103*,CTX-M-15,-,1,K30,"O1αβ,2β",IncFIB(K);IncFII(K)
+2zMSRqAocfCJKkD9QNFy4h,SAMEA111505127,Nigeria,Passed,Klebsiella pneumoniae,103,5487300,204996,ST5469,1,,-,CTX-M-15,-,0,unknown (KL180),"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+sBY9yaGJ9Z3UehhpmLwApW,SAMN05960912,Nigeria,Passed,Klebsiella pneumoniae,63,5414356,252348,ST15,1,,OXA-1,CTX-M-15,-,1,Capsule null,"O1αβ,2α",Col440I;ColpVC;IncFIA(HI1);IncR
+9Cg5tSRuj3WekAkohxtNF8,SAMEA6155831,Nigeria,Passed,Klebsiella pneumoniae,64,5662256,389125,ST147,1,,OXA-1,CTX-M-15,-,1,K64,O2α,Col440I;Col440II;IncFIB(K);IncFIB(pQil);IncFII(K)
+byKxLedN8hkeYPzGY9RN3e,SAMEA6156048,Nigeria,Passed,Klebsiella pneumoniae,85,5762585,321196,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+emc2Y8aewkeLdrXP1ErTVq,SAMEA6422787,Nigeria,Passed,Klebsiella pneumoniae,48,5582694,462896,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col440I;IncFIB(K);IncFII(K);IncN4
+5YcHZfCXXEbTw9xNzuwa1J,SAMEA111505136,Nigeria,Passed,Klebsiella pneumoniae,178,5861776,121482,ST37,0,,-,-,-,0,K12,O10,Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFII(K);IncHI2;IncHI2A;repB(R1701);repFIB
+5fgTM9Ykzy6oP5gU2VX5NY,SAMEA4785015,Nigeria,Passed,Klebsiella pneumoniae,73,5333402,214555,ST395,1,,OXA-1,CTX-M-15,-,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncR
+qnFhGhEkJsEpymtjuEuRg4,SAMN05960965,Nigeria,Passed,Klebsiella pneumoniae,53,5298768,204059,ST1658,0,,-,-,-,0,K19,O3γ,Col(pHAD28)
+7ktPb5meWXzfQRweFnU2FQ,SAMN36884892,Ghana,Passed,Klebsiella pneumoniae,63,5416330,225509,ST307,1,,-,CTX-M-15,-,1,unknown (KL102),O2β,IncFIA(HI1);IncR
+mh8QsLVSKkkUpSJ2Gqsxz6,SAMEA7472453,Nigeria,Passed,Klebsiella pneumoniae,84,5516255,227756,ST15,1,,SCO-1;OXA-1,CTX-M-15,-,1,Capsule null,"O1αβ,2α",Col440I;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+aCn3H8dceHdJsdtEZ3b3t4,SAMEA111505121,Nigeria,Passed,Klebsiella pneumoniae,57,5556776,299623,ST1922-3LV,1,,OXA-1,CTX-M-15,-,0,K12,O10,Col(pHAD28);Col440I;IncFIA(pBK30683);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR)
+uEJwJQyMJ2QWaL2CKEdcYW,SAMEA7472492,Nigeria,Passed,Klebsiella pneumoniae,95,5362315,247271,ST442,2,,-,CTX-M-15,NDM-1,0,K28,O2α,Col(pHAD28);ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+tJvLJNL45xQFCnezmWwrq9,SAMEA6654228,Ghana,Passed,Klebsiella pneumoniae,97,5761349,255025,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;ColRNAI;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+6NgTy4avhPgFMyd7ew6qw3,SAMN05960920,Nigeria,Passed,Klebsiella pneumoniae,35,5422502,371277,ST587,0,,-,-,-,0,K27,O2β,IncFIB(K)(pCAV1099-114);IncFII(K)
+k1Abhny5Aj34cCaarEoCXn,SAMN05960960,Nigeria,Passed,Klebsiella pneumoniae,24,5199966,642607,ST1373,0,,-,-,-,0,K25,O3αβ,
+fFbaU85qpMEsGYwmCyq8Ut,SAMEA6155806,Nigeria,Passed,Klebsiella pneumoniae,37,5467798,463169,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,IncFIB(K);IncFII(K)
+eHwENZHnSn65mbjtkJquHt,SAMEA6155925,Nigeria,Passed,Klebsiella pneumoniae,53,5501491,275722,ST86,1,,OXA-1,CTX-M-15,-,3,K2,"O1αβ,2α",IncHI1B(pNDM-MAR);repB
+1eAFffAm8xJ8pXbru3vQpd,SAMEA6654243,Ghana,Passed,Klebsiella pneumoniae,78,5768659,379791,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+bZXch8WCLn5U1VZ58x88Hr,SAMEA111505119,Nigeria,Passed,Klebsiella pneumoniae,67,5486193,214939,ST307,0,,OXA-1,-,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K)
+knFHbBqNXxxzUbaNPwArxH,SAMEA111505115,Nigeria,Passed,Klebsiella pneumoniae,84,5626309,172527,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114)
+8zoC2M3h7ckamKAjpBihyV,SAMN05960928,Nigeria,Passed,Klebsiella pneumoniae,71,5600975,310247,ST17,1,,SCO-1,CTX-M-15,-,1,K2,O2α,Col(pHAD28);ColRNAI;IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+8gFkefqhqjn2zNeN7LKmRW,SAMEA6654211,Ghana,Passed,Klebsiella pneumoniae,83,5664417,274722,ST39,1,,-,CTX-M-15,-,1,K2,"O1αβ,2α",Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);repB(R1701)
+rZERGMB5Yp52Kp9vx2uP5D,SAMN45807623,Nigeria,Passed,Klebsiella pneumoniae,76,5474218,264061,ST442,1,,SCO-1;OXA-1,CTX-M-15,-,0,unknown (KL146),O2β,ColpVC;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR)
+wjtzE9JUA51SH7xKqraRjv,SAMEA6155819,Nigeria,Passed,Klebsiella pneumoniae,51,5430387,438980,ST17,0,,-,-,-,0,K62,O2β,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91);IncR
+p8SgQFDtWxd81Tv3ftnaxK,SAMEA6422760,Nigeria,Passed,Klebsiella pneumoniae,114,5987964,197394,ST4566,1,,DHA-1,CTX-M-15,-,0,K49,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncY;repB(R1701)
+3M69ozjtNhRxze64xdpMpL,SAMEA6155857,Nigeria,Passed,Klebsiella pneumoniae,72,5599375,326403,ST231,1,,OXA-1,CTX-M-15,-,1,K51,"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+edEEzeCWmw8eUUzUVioFCf,SAMN36884890,Ghana,Passed,Klebsiella pneumoniae,122,5745349,263046,ST397,1,,OXA-1,CTX-M-15,-,1,unknown (KL158),"O1αβ,2α",IncFIB(K)(pCAV1099-114);IncFII(K);RepB;repB(R1701);repFIB
+nyYYpR79VZtQcasBLdMfiW,SAMEA6422733,Nigeria,Passed,Klebsiella pneumoniae,55,5786192,354491,ST1788,1,,OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",IncFIB(K);IncFIB(pKPHS1);IncFII(K)
+je24hCpvFs5pMLicnwhQV9,SAMEA111504614,Ghana,Passed,Klebsiella pneumoniae,52,5442320,273245,ST65,0,,-,-,-,3,K2,"O1αβ,2β",IncHI1B(pNDM-MAR);repB
+pqK3qeL4G7ZPVdSy5CjHSj,SAMEA6155818,Nigeria,Passed,Klebsiella pneumoniae,18,5123517,2832996,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+cGZBRpV9knuSfH1frNBE59,SAMEA6654235,Ghana,Passed,Klebsiella pneumoniae,107,5757117,309920,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+jatWGqpAH5JvPSwEyou3qQ,SAMEA7472421,Nigeria,Passed,Klebsiella pneumoniae,99,5428420,367287,ST4074,0,,-,-,-,0,unknown (KL137),O13,IncFIB(K);IncFII(K);IncR
+6td5bCdGNsHhzxmY5DuJpm,SAMN05960948,Nigeria,Passed,Klebsiella pneumoniae,95,5715282,319134,ST147,1,,SCO-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(K);IncFII(K);IncR
+7eksoQvSQJyk2soDV1M8cw,SAMN36884871,Ghana,Passed,Klebsiella pneumoniae,56,5513308,295785,ST16,1,,OXA-1,CTX-M-15,-,1,K51,O3γ,Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+kfwfeXJbtjiTtaFgYBYKfM,SAMN05960875,Nigeria,Passed,Klebsiella pneumoniae,79,5555034,312638,ST20,0,,-,-,-,0,K28,"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncN;IncR
+hngZ5fvGRzhg2ho5dAJvLB,SAMEA6654229,Ghana,Passed,Klebsiella pneumoniae,67,5760296,627650,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+mDqJJTmFgkFCPtdJsmaa9f,SAMEA6156101,Nigeria,Passed,Klebsiella pneumoniae,92,5686297,254723,ST392,2,,OXA-1,CTX-M-15,NDM-1,0,K27,O4,Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+fitubmJhtjdRfHPy7SK1BH,SAMEA6155722,Nigeria,Passed,Klebsiella pneumoniae,100,5645885,363663,ST5244,1,,OXA-1*,CTX-M-15,-,1,unknown (KL112),"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+3MA526pMqPnbBirPCAfuqy,SAMN05960905,Nigeria,Passed,Klebsiella pneumoniae,72,5589712,269224,ST45,1,,-,CTX-M-15,-,1,unknown (KL102),O2α,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+9cPaMjZBTZ8UuXxqxw8RB6,SAMEA6422782,Nigeria,Passed,Klebsiella pneumoniae,97,5868722,402150,ST5245,2,,OXA-1,CTX-M-15*,NDM-1,0,K10,O3αβ,Col(pHAD28);Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncFII(pKP91);IncHI1B(pNDM-MAR);IncR
+9UbPm98MQKPEXCjhgM6XyT,SAMN41988736,Ghana,Passed,Klebsiella pneumoniae,51,5457158,397739,ST86,0,,-,-,-,3,K2,"O1αβ,2α",IncFIA(HI1);IncHI1B(pNDM-MAR);IncR;repB
+bAvZYPTTZB28fNDnWSoNzb,SAMEA6654233,Ghana,Passed,Klebsiella pneumoniae,92,5585167,237446,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+3FuWbd6iGPmGnVZZcGZyfs,SAMEA111504613,Ghana,Passed,Klebsiella pneumoniae,85,5697955,271608,ST147,2,,OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFIB(pQil);IncR;RepB;repFIB
+vHGvxrKSaFxeGXjF6BdbxC,SAMN05960872,Nigeria,Passed,Klebsiella pneumoniae,86,5563069,181912,ST25,1,,-,CTX-M-15,-,0,K2,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+7uKY2qaZYWVBwzpDeBiFfs,SAMEA4785004,Nigeria,Passed,Klebsiella pneumoniae,134,5722012,235540,ST4,2,,OXA-1,CTX-M-15,NDM-1,0,K62,"O1αβ,2α",Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncFII(pBK30683);IncHI1B(pNDM-MAR);IncR
+8VpgMT25T3vC3CQ4msverS,SAMEA6155812,Nigeria,Passed,Klebsiella pneumoniae,87,5763060,321748,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+u5kvsKQqPhBxL934Cq9gcd,SAMEA6155867,Nigeria,Passed,Klebsiella pneumoniae,62,5629151,317813,ST15,1,,SCO-1,CTX-M-15,-,1,K24,"O1αβ,2α",IncFIB(K);IncFIB(pKPHS1);IncFII(K)
+iZPKFzecZEFRQ8HmNDhgjo,SAMEA6155871,Nigeria,Passed,Klebsiella pneumoniae,54,5501339,276100,ST86,1,,OXA-1,CTX-M-15,-,3,K2,"O1αβ,2α",IncHI1B(pNDM-MAR);repB
+mkvUGFdMkBi4RkyhgK68qy,SAMEA6155800,Nigeria,Passed,Klebsiella pneumoniae,41,5401670,492036,ST281,0,,-,-,-,0,K64,"O1αβ,2α",IncFIB(K)
+7wDUQTqU6GG7ibv7DvsZXW,SAMEA6422769,Nigeria,Passed,Klebsiella pneumoniae,66,5471367,236233,ST147-1LV,1,,OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(pQil);IncFII(K);IncR
+8akqHeZBUgH2nDjdmxK8yD,SAMN45807627,Nigeria,Passed,Klebsiella pneumoniae,49,5706432,471719,ST1788,1,,OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",IncFIB(K);IncFIB(pKPHS1);IncFII(K)
+3tmGB8ktxVeLWCRwUz9d8c,SAMN05960950,Nigeria,Passed,Klebsiella pneumoniae,78,5569659,147090,ST25,1,,-,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+8PBMxwG1U2WaAyyVedcK11,SAMEA6863335,Ghana,Passed,Klebsiella pneumoniae,159,5854841,146246,ST540,2,,LAP-2;OXA-1,CTX-M-15,NDM-1,0,K64,"O1αβ,2β",Col(pHAD28);Col440I;Col440II;IncC;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncFII(pBK30683);IncFII(pMET);IncHI1B(pNDM-MAR)
+hfQYsRNWpdeZBK7B1g76BR,SAMEA7472393,Nigeria,Passed,Klebsiella pneumoniae,26,5079802,477730,ST815,0,,-,-,-,0,Capsule null,"O1αβ,2α",
+jj5m1fz4JbfRLGmD548WR6,SAMEA6654214,Ghana,Passed,Klebsiella pneumoniae,93,5596311,212189,ST25,1,,LAP-2;OXA-1*,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+kYMbynLb8HU4zrcBkbYkH9,SAMN36884879,Ghana,Passed,Klebsiella pneumoniae,82,5882255,204266,ST3248,1,,OXA-1,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR)
+sAw5HbYFaHi6GVG2gyUbGW,SAMEA6422744,Nigeria,Passed,Klebsiella pneumoniae,43,5619442,484219,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+o7ZNphmQDDp6U23oNmT1F6,SAMEA8515143,Nigeria,Passed,Klebsiella pneumoniae,129,5701705,132833,ST464,2,,OXA-1,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+dP2G69R9JYhdUHH1QF2v2w,SAMN05960915,Nigeria,Passed,Klebsiella pneumoniae,69,5641711,263308,ST14,1,,-,CTX-M-15,-,1,unknown (KL174),"O1αβ,2β",IncFIB(K);IncFIB(pKPHS1);repB(R1701)
+iwi5npfx9osTxgTVKTk87T,SAMN05960887,Nigeria,Passed,Klebsiella pneumoniae,67,5363361,378880,ST16,0,,-,-,-,0,unknown (KL128),O3γ,IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+ce21hb7zojMnor7zg5sWZa,SAMEA6155863,Nigeria,Passed,Klebsiella pneumoniae,60,5544908,406725,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440I;Col440II;IncFIA(HI1);IncFIB(K);IncFII(pKP91);IncR
+sjbJuWVDRiDDqNnEJyPAkY,SAMEA6654247,Ghana,Passed,Klebsiella pneumoniae,98,5778450,479625,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+xdNsKsPiEWkzU1GEMC1i6m,SAMN05960884,Nigeria,Passed,Klebsiella pneumoniae,105,5228977,145831,ST1035,0,,-,-,-,0,K57,"O1αβ,2β",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFII(K)
+jas4phQXkagxhCyPHioY9i,SAMN36884874,Ghana,Passed,Klebsiella pneumoniae,188,5919073,137165,ST252,1,,OXA-1,CTX-M-15,-,0,K81,"O1αβ,2β",Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncFII(pBK30683);IncHI1B(pNDM-MAR)
+mRcHS7TgKD2g46yZERJDdp,SAMEA7472503,Nigeria,Passed,Klebsiella pneumoniae,76,5515171,260020,ST3248,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+27Ru2zdMwBbPvcvNupdnRx,SAMEA7472473,Nigeria,Passed,Klebsiella pneumoniae,132,5387779,84234,ST17,1,,LAP-2,CTX-M-14,-,0,unknown (KL122),O2β,Col440II;IncFIB(K);IncFII(pKP91)
+eR5kicJVi4tWZdTzoSQtoD,SAMEA6155828,Nigeria,Passed,Klebsiella pneumoniae,72,5517407,274682,ST15,0,,-,-,-,1,K24,"O1αβ,2α",Col(pHAD28);ColpVC;IncFIB(K);IncFII(K);IncR
+1FuNVd4tgXsAV9NYkp4824,SAMEA6155882,Nigeria,Passed,Klebsiella pneumoniae,48,5578893,430432,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+c4GTL4K9vYXFBPKGyxKQ4X,SAMEA7472440,Nigeria,Passed,Klebsiella pneumoniae,117,5645794,212241,ST20,2,,-,CTX-M-15,NDM-1,0,K28,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);repFIB
+qFjC5wtsMs7Mx9esCZwse4,SAMN36884872,Ghana,Passed,Klebsiella pneumoniae,79,5411676,284542,ST15,1,,LAP-2;OXA-1,CTX-M-15,-,0,K19,"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+kJNnXoD8vixEUPVE2DqeAz,SAMEA6155835,Nigeria,Passed,Klebsiella pneumoniae,59,5736525,695741,ST1801,1,,OXA-1,CTX-M-15,-,0,K35,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K)
+7v9Nq4PcZg5wXgoxJUe8Yn,SAMN05960951,Nigeria,Passed,Klebsiella pneumoniae,48,5326469,502957,ST1658,0,,-,-,-,0,K19,O3γ,Col(pHAD28)
+5D1JBtLHpQK42J1vJ8DXSP,SAMN05960923,Nigeria,Passed,Klebsiella pneumoniae,67,5343571,232199,ST8,0,,-,-,-,0,K3,"O1αβ,2β",Col440I;IncFIB(K);repB(R1701)
+tz3KKQTzSeRctTL127zPKF,SAMEA6654223,Ghana,Passed,Klebsiella pneumoniae,55,5754451,479625,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+82eR6GZey3tNBaqHGtxGzw,SAMEA6654238,Ghana,Passed,Klebsiella pneumoniae,94,5762738,298609,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+8bSGN5wekQSzMu67jP73ZP,SAMEA111505114,Nigeria,Passed,Klebsiella pneumoniae,66,5562415,307847,ST307,1,,OXA-1,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(pKP91)
+tG6acDHGobY51suiQSFBKX,SAMEA6654236,Ghana,Passed,Klebsiella pneumoniae,98,5581547,271408,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+mZ82Nevx73s1WDbcNDRULC,SAMEA4785010,Nigeria,Passed,Klebsiella pneumoniae,117,5980523,233396,ST147,2,,OXA-9.v1;OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFIB(pNDM-Mar);IncFIB(pQil);IncR;RepB
+k9JCAPMxurzSKXmtzZYL5T,SAMEA6654225,Ghana,Passed,Klebsiella pneumoniae,108,5746053,360493,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;ColRNAI;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+vGtJVDvJbXimrzWLDFZdXQ,SAMN36884885,Ghana,Passed,Klebsiella pneumoniae,53,5493294,376052,ST70,1,,OXA-1,CTX-M-15,-,1,unknown (KL136),"O1αβ,2β",Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+tRwz3rgZ949fz2WZhyGu7T,SAMEA111505140,Nigeria,Passed,Klebsiella pneumoniae,58,5368951,216824,ST2457-1LV,0,,-,-,-,0,unknown (KL186),unknown (OL14),IncFIB(K);IncFII(pKP91);repB(R1701)
+tCDM3F6zSTTBUgKunyb8sH,SAMEA6422765,Nigeria,Passed,Klebsiella pneumoniae,64,5495504,323818,ST17,1,,-,CTX-M-15,-,0,K2,O2α,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pQil);IncFII(K);IncR
+2Zgx7whbCctjN9tBdvUggB,SAMEA111505130,Nigeria,Passed,Klebsiella pneumoniae,40,5154378,294745,ST2729,0,,-,-,-,0,K52,O10,
+d9CdBxjfAoMmmG61oZuuKN,SAMN05960946,Nigeria,Passed,Klebsiella pneumoniae,152,5785752,159321,ST12,1,,OXA-1,CTX-M-15,-,0,unknown (KL157),O2α,Col440II;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);RepB;repFIB
+xpuYKKN33xUwEFEHcYNxrv,SAMEA7472471,Nigeria,Passed,Klebsiella pneumoniae,103,5802970,320116,ST4410,2,,-,CTX-M-15,NDM-1,1,unknown (KL116),"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR
+gWctNQwWhVx3SHvoycbz5o,SAMEA6654241,Ghana,Passed,Klebsiella pneumoniae,70,5762609,427451,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+mrbKzGk1dyjdEhyvwp9UH5,SAMEA111505142,Nigeria,Passed,Klebsiella pneumoniae,90,5608589,177679,ST6337,1,,OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);IncFIB(K);IncFII(K)
+vPnNvNW6p1ALprg57MTF4k,SAMEA6654230,Ghana,Passed,Klebsiella pneumoniae,50,5586992,479624,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+ep4NAxRxYEM4xd8FEHYC6d,SAMEA6654239,Ghana,Passed,Klebsiella pneumoniae,129,5747942,289716,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+fstHdZDYbS5mHrCxcBxm1p,SAMN05960945,Nigeria,Passed,Klebsiella pneumoniae,135,5787433,171472,ST12,1,,OXA-1,CTX-M-15,-,0,unknown (KL157),O2α,Col440II;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);RepB;repFIB
+cn2BAN2ymgY9j4cHSULQco,SAMEA6422774,Nigeria,Passed,Klebsiella pneumoniae,38,5593129,399908,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col440I;IncFIB(K);IncFII(K)
+65GXWu7971WMZfcK6f2yRL,SAMEA6654221,Ghana,Passed,Klebsiella pneumoniae,44,5591824,438887,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+1X3RHR1R9T3bHHmdytUUzm,SAMEA4785006,Nigeria,Passed,Klebsiella pneumoniae,124,5696826,198610,ST15,2,,OXA-1,CTX-M-15,NDM-1,0,K48,"O1αβ,2α",Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pQil);IncFII(K);IncR
+3ETZnCVSXG1XhYMeJg44uh,SAMEA6422762,Nigeria,Passed,Klebsiella pneumoniae,64,5532432,247995,ST15,0,,-,-,-,1,K48,"O1αβ,2α",IncFIA;IncFIB(AP001918);IncFII(K);IncFII(pAMA1167-NDM-5);IncR;repB(R1701)
+96cksz4WjidZG4XXudpBGN,SAMN05960955,Nigeria,Passed,Klebsiella pneumoniae,59,5462475,290493,ST716,1,,OXA-1,CTX-M-15,-,1,unknown (KL110),O2α,Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFII(K)
+saQY2KcQvxx3dmBCmfJKbA,SAMEA6155911,Nigeria,Passed,Klebsiella pneumoniae,91,5423864,209816,ST340,2,,-,CTX-M-15,OXA-181,0,K15,O4,Col440I;ColKP3;IncFIA(HI1);IncFIB(K);IncFII(K);IncR;IncX3;repB(R1701)
+6mvRGZipdvWcmDtzSe6mMc,SAMEA4785018,Nigeria,Passed,Klebsiella pneumoniae,104,5874475,232141,ST147,2,,OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR)
+9LPpTDMF2gYTgpLoGeYXV2,SAMEA6155889,Nigeria,Passed,Klebsiella pneumoniae,170,5684588,171626,ST502,1,,SCO-1;OXA-1,CTX-M-15,-,0,K15,O4,Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncFII(pBK30683);IncHI1B(pNDM-MAR);IncR;RepB
+vkdwdm7JH34D88Q6BcT7eq,SAMEA8515150,Nigeria,Passed,Klebsiella pneumoniae,97,5654510,217096,ST464,2,,OXA-1,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+1c7a62n9V8BQPaEkvjMDc4,SAMN05960942,Nigeria,Passed,Klebsiella pneumoniae,139,5785680,171472,ST12,1,,OXA-1,CTX-M-15,-,0,unknown (KL157),O2α,Col440II;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);RepB;repFIB
+vcDCfmYBJncwYdGQG2mpfR,SAMEA6155886,Nigeria,Passed,Klebsiella pneumoniae,97,5764171,297836,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncR
+iwr1hdHsuVcU4yvsihvFMj,SAMEA6155824,Nigeria,Passed,Klebsiella pneumoniae,75,5365000,222026,ST340,1,,-,CTX-M-15,-,0,K15,O4,IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+jhNV3ZPRuaxd87WdMV1a1B,SAMEA6155790,Nigeria,Passed,Klebsiella pneumoniae,56,5577635,378048,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+mhDuTKMYCV1V842nethQWY,SAMEA6155845,Nigeria,Passed,Klebsiella pneumoniae,100,5781554,286748,ST11,1,,-,CTX-M-15,-,0,K27,O2β,IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncR;repB(R1701);repFIB
+5wTxRTqNZjtEuvGGj4Mx5Y,SAMN36884882,Ghana,Passed,Klebsiella pneumoniae,35,5479858,473593,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+p3uE7VsE14c6D5LHnqXS1M,SAMEA7472491,Nigeria,Passed,Klebsiella pneumoniae,108,5368841,141997,ST442,2,,OXA-1,-,NDM-1,0,K28,O2α,Col(pHAD28);ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+fFWpeg8oUzsKkkvSLF3V9L,SAMEA111504608,Ghana,Passed,Klebsiella pneumoniae,65,5533513,321498,ST70,0,,-,-,-,0,unknown (KL122),"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);IncR;repFIB
+uL3CKBQ4ihoSFt3qZssevL,SAMEA111505132,Nigeria,Passed,Klebsiella pneumoniae,68,5468461,682352,ST147,1,,LAP-2;OXA-1,CTX-M-15,-,0,unknown (KL128),O3γ,IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR)
+4vecoti19U8QYh9yiWeTgo,SAMEA6654213,Ghana,Passed,Klebsiella pneumoniae,72,5614431,401693,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+fqWJ9K2QRMJH8qE2eUujtf,SAMEA7472434,Nigeria,Passed,Klebsiella pneumoniae,80,5681472,286753,ST464,2,,-,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+oSeqP5cRrnXMcfoxkK8tBH,SAMEA6156052,Nigeria,Passed,Klebsiella pneumoniae,46,5523750,403416,ST342,1,,TEM-103*,CTX-M-15,-,1,K30,"O1αβ,2β",IncFIB(K);IncFII(K)
+85P8Lz6iBLgADQsNbQj49m,SAMEA111505133,Nigeria,Passed,Klebsiella pneumoniae,85,5458830,143252,ST215,1,,-,CTX-M-15,-,1,K16,"O1αβ,2α",IncFIB(K);IncFII(K)
+sGGgYrWZsF3yCUZpU2GhEW,SAMN05960888,Nigeria,Passed,Klebsiella pneumoniae,45,5464088,398349,ST45,1,,-,CTX-M-15,-,1,K62,O2α,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+wCwAFpJj3FF7zouFf7cV13,SAMN05960893,Nigeria,Passed,Klebsiella pneumoniae,48,5369066,365564,ST48,1,,-,CTX-M-15;SHV-12,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncN
+gfuP6GHjDZQ8BgLZEcDuXt,SAMEA6654222,Ghana,Passed,Klebsiella pneumoniae,65,5749545,1077093,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+pbk2WX17WrWWJNqoAEyhm9,SAMEA4785005,Nigeria,Passed,Klebsiella pneumoniae,140,5945822,214964,ST147,2,,-,CTX-M-15,NDM-1,0,unknown (KL106),O2β,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(pNDM-Mar);IncFII(K);IncFII(pBK30683);IncHI1B(pNDM-MAR);IncR;repA(pKOX);repB(R1701)
+2NgpXYhueejuSuTAZyHPeh,SAMEA6155851,Nigeria,Passed,Klebsiella pneumoniae,72,5531221,291311,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,0,K2,"O1αβ,2β",Col440I;IncFIB(K)(pCAV1099-114)
+dj8cNasQccRhPLsXQLMzjz,SAMEA7472438,Nigeria,Passed,Klebsiella pneumoniae,114,5645838,294288,ST20,2,,-,CTX-M-15,NDM-1,0,K28,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);repFIB
+obEJj5XuFzXAkKQ79jF21X,SAMN36884895,Ghana,Passed,Klebsiella pneumoniae,45,5411443,245053,ST48,1,,-,CTX-M-15,-,1,K62,"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFII(K)
+kQbFftPeNydrTFLKm1gTh7,SAMEA7472431,Nigeria,Passed,Klebsiella pneumoniae,92,5584687,160347,ST464,2,,-,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3
+fhgmyF2yUq7AWaDrvx7pma,SAMEA6155832,Nigeria,Passed,Klebsiella pneumoniae,99,5797707,352676,ST11,1,,-,CTX-M-15,-,0,K27,O2β,IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncR;repB(R1701);repFIB
+7TqRpehZ2qcivjv7zqcvTp,SAMEA7472368,Nigeria,Passed,Klebsiella pneumoniae,53,5147987,209243,ST76,0,,-,-,-,0,K31,O3αβ,Col(pHAD28);IncFII(pMET)
+vPwBSvhKtWDxodfhjCnXmP,SAMEA111505129,Nigeria,Passed,Klebsiella pneumoniae,68,5543336,285514,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K)
+jPBM7SVA1a7tG9wqKzPojF,SAMN05960894,Nigeria,Passed,Klebsiella pneumoniae,54,5368116,317317,ST48,1,,-,CTX-M-15;SHV-12,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncN
+1a2iUfdSziZ4bAcFoFiyba,SAMEA111505135,Nigeria,Passed,Klebsiella pneumoniae,88,5427675,186337,ST111,0,,-,-,-,1,K63,"O1αβ,2β",IncFIB(K);IncFII(pKP91)
+56rtBCLAfwhp1Mc8VrFiSU,SAMEA6155794,Nigeria,Passed,Klebsiella pneumoniae,23,5121964,734148,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+9aiHzthWfG36nY5FfEZgt5,SAMEA6654217,Ghana,Passed,Klebsiella pneumoniae,88,5609156,243315,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,Capsule null,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+tTtLMUXkFaaF2sdixGjgda,SAMN05960885,Nigeria,Passed,Klebsiella pneumoniae,100,5602333,259123,ST101,1,,OXA-9.v1,CTX-M-15,-,1,K17,"O1αβ,2α",Col440I;Col440II;IncFIA(HI1);IncFIB(K);IncFII(pKP91);IncR;repB(R1701)
+bxRyRAsmc1ZnVJrXNYtSzs,SAMN05960930,Nigeria,Passed,Klebsiella pneumoniae,61,5653831,356682,ST108,1,,OXA-1,CTX-M-15,-,0,unknown (KL112),O2β,IncFIB(K);IncFIB(pKPHS1);IncFII(K)
+iby3wEYc9KeyTJd87zTnVv,SAMN31892434,Ghana,Passed,Klebsiella pneumoniae,34,5372145,472837,ST2159,0,,-,-,-,3,K1,"O1αβ,2β",RepB;repB
+wUVBBmrNkX5ZbJQDo53r4F,SAMEA6155840,Nigeria,Passed,Klebsiella pneumoniae,78,5552147,306683,ST15,1,,SCO-1;OXA-1,CTX-M-15,-,1,K48,"O1αβ,2α",Col440I;IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+wBsYnQ5pxWiCw9S5y5GFKb,SAMEA111505131,Nigeria,Passed,Klebsiella pneumoniae,133,5443480,126140,ST964,0,,TEM-103*,-,-,0,unknown (KL103),"O1αβ,2α",IncFIB(K);IncFIB(pKPHS1);repB(R1701)
+9ZPqEpyvM7PSSoLwHHc7rT,SAMN36884889,Ghana,Passed,Klebsiella pneumoniae,66,5499326,360026,ST336,1,,OXA-1,CTX-M-15,-,1,unknown (KL183),O13,Col(pB8919);IncFIB(K);IncFII(K)
+oPJnj2ekm9kUCNXgLdtzbP,SAMEA6155803,Nigeria,Passed,Klebsiella pneumoniae,63,5454700,407624,ST4,1,,OXA-1,CTX-M-15,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncR
+21ZLrXeeHyHuywWtJokdwu,SAMEA6155791,Nigeria,Passed,Klebsiella pneumoniae,19,5123247,734680,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+wEaCTewaPHHud6H82H5S4P,SAMN36884893,Ghana,Passed,Klebsiella pneumoniae,98,5608894,260366,ST14,1,,OXA-1,CTX-M-15,-,0,K2,"O1αβ,2α",IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR);repB(R1701);repFIB
+rq2cfjS6BAaV3WXFujUqVi,SAMEA4785008,Nigeria,Passed,Klebsiella pneumoniae,123,5976816,234200,ST147,2,,OXA-9.v1;OXA-1,CTX-M-15,NDM-1,1,K64,O2α,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncFIB(pNDM-Mar);IncFIB(pQil);IncR;RepB
+aamPQGKaDvqCKgnosBKWZM,SAMN05960918,Nigeria,Passed,Klebsiella pneumoniae,131,5733658,165947,ST3687,0,,-,-,-,0,K55,O3αβ,Col(pHAD28);Col440I;IncFIB(K);IncFIB(pQil);IncFII(K);IncFII(pKPX1);repB(R1701)
+oKpzouhqV9EMw2cBQFoTea,SAMEA6155795,Nigeria,Passed,Klebsiella pneumoniae,57,5625860,378353,ST307,1,,OXA-1,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+6UmGxRCHX4KJH5mnLTkHCQ,SAMEA7472481,Nigeria,Passed,Klebsiella pneumoniae,47,5498553,378079,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+iMG8H4Co69RHQYk1sNSRfJ,SAMEA7472446,Nigeria,Passed,Klebsiella pneumoniae,64,5528313,355311,ST133,1,,SCO-1,CTX-M-15,-,1,unknown (KL116),"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFIB(pKPHS1);IncFII(K)
+nKztEJxaQRFH8q7CjZuMPR,SAMEA112281695,Ghana,Passed,Klebsiella pneumoniae,104,5669098,214734,ST147,1,,TEM-190^;OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII;IncHI1B(pNDM-MAR);IncR;repFIB
+odMkneuyvBekXi3t5gd65n,SAMEA6654242,Ghana,Passed,Klebsiella pneumoniae,62,5589495,372324,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+g8rdjWUAm2LL6rJJG5ZTf3,SAMN05960935,Nigeria,Passed,Klebsiella pneumoniae,41,5479701,460171,ST429,1,,OXA-1,CTX-M-15,-,0,K27,O4,IncFIB(K);IncFII(K)
+9pTFk2Q553efjZBE6rP2iq,SAMN41988742,Ghana,Passed,Klebsiella pneumoniae,57,5432144,536116,ST248,0,,-,-,-,0,K51,O3γ,Col440I;IncFIB(K)(pCAV1099-114);IncY
+1giVL9n6jnoY6zzeySmeSr,SAMEA112281699,Ghana,Passed,Klebsiella pneumoniae,16,5267323,2931023,ST18,0,,-,-,-,0,K23,O2β,IncFII(K);IncR
+3Y7gynbx2o4aKcDkKys25x,SAMEA111505113,Nigeria,Passed,Klebsiella pneumoniae,85,5765500,229763,ST43,1,,-,CTX-M-15,-,0,K30,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncY
+rvmkKyu1SvuhNSPf1h2J5m,SAMN05960901,Nigeria,Passed,Klebsiella pneumoniae,47,5543818,372950,ST831,1,,OXA-1,CTX-M-15,-,1,Capsule null,"O1αβ,2α",IncFIB(K);IncFII(K);IncQ1
+7WnDm43QrjNec8vtWHPf7M,SAMN05960913,Nigeria,Passed,Klebsiella pneumoniae,56,5511580,408120,ST4,1,,-,CTX-M-15,-,1,K13,"O1αβ,2α",Col440I;IncFIB(K);IncFII(K);IncR
+4mp1yaqsPNm9uZkL9czRdK,SAMEA7472458,Nigeria,Passed,Klebsiella pneumoniae,97,5613100,213131,ST377,2,,OXA-1,CTX-M-15,NDM-1,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR)
+oB4cB8RSV8ofjFjJBLLXVj,SAMEA6155827,Nigeria,Passed,Klebsiella pneumoniae,158,5528018,90067,ST5242,0,,-,-,-,0,Capsule null,unknown (OL14),Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncN;IncR;repB(R1701)
+hdJoa1YA1B7mvkzuzMLcYi,SAMEA6155799,Nigeria,Passed,Klebsiella pneumoniae,129,5628418,162330,ST43,2,,CMY-2.v2,CTX-M-15,NDM-1,0,K18,"O1αβ,2α",IncC;IncFIB(K);IncFII(K);IncR;IncX3
+henhQq47DRAjYrmkCVsKCV,SAMN05960970,Nigeria,Passed,Klebsiella pneumoniae,50,5382064,473709,ST530,1,,-,CTX-M-15,-,0,K62,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K);IncFII(K)
+mVQsapn1bgGpHbYNDGgQ2F,SAMN05960889,Nigeria,Passed,Klebsiella pneumoniae,52,5369415,323966,ST48,1,,-,CTX-M-15;SHV-12,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncN
+7K7X7kT9JLVHLYBf49wCrZ,SAMN41988745,Ghana,Passed,Klebsiella pneumoniae,71,5378856,320364,ST964,0,,-,-,-,0,unknown (KL103),"O1αβ,2α",IncFIA(HI1);IncFIB(K);IncY
+gLNzBYyV8st6sWjPyPhU9a,SAMEA112281694,Ghana,Passed,Klebsiella pneumoniae,73,5433862,195253,ST147,0,,OXA-1,-,-,0,K10,O3αβ,Col(pHAD28);Col440I
+n88HMJpDkkCZSdT8jyMHPv,SAMEA6155881,Nigeria,Passed,Klebsiella pneumoniae,51,5580255,430524,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+sqcCF27u2Jk2Ts9AhftTbT,SAMEA6422763,Nigeria,Passed,Klebsiella pneumoniae,40,5574674,624395,ST101,0,,-,-,-,1,K17,"O1αβ,2α",ColRNAI;IncFIB(K);IncFII(pCRY);IncFII(pKP91);IncN
+rD3YSY9RHtK82EVsqADyd3,SAMEA111505124,Nigeria,Passed,Klebsiella pneumoniae,163,5655971,103129,ST147,1,,OXA-1,CTX-M-15,-,0,K10,O3αβ,Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);IncN4;IncR;repFIB
+vwqte6pbD3kh7mfEzLFxWh,SAMN05960964,Nigeria,Passed,Klebsiella pneumoniae,61,5462583,339052,ST716,1,,OXA-1,CTX-M-15,-,1,unknown (KL110),O2α,Col(pHAD28);Col440I;Col440II;IncFIB(K);IncFII(K)
+6osF4xvGWgnyHoxMuxoDon,SAMEA6654245,Ghana,Passed,Klebsiella pneumoniae,71,5755795,377434,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+kmLw1MA31sJ5vV4LmNnd97,SAMEA111504610,Ghana,Passed,Klebsiella pneumoniae,47,5418703,301954,ST86,0,,-,-,-,4,K2,"O1αβ,2α",Col440I;IncHI1B(pNDM-MAR);repB
+kYpJkJhU9K19EBkXL3AknW,SAMEA7472472,Nigeria,Passed,Klebsiella pneumoniae,116,5781847,235695,ST4410,2,,OXA-1,CTX-M-15,NDM-1,1,unknown (KL116),"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR
+nanSgc31C6YiaJwjhG7znD,SAMEA6155802,Nigeria,Passed,Klebsiella pneumoniae,83,5269381,171626,ST502,1,,SCO-1,CTX-M-15,-,0,K15,O4,Col440I;IncFIA(HI1);IncFIB(K)(pCAV1099-114);RepB;repB(R1701)
+oDFqoJXXZ81zPqaoNhVE5T,SAMEA6654246,Ghana,Passed,Klebsiella pneumoniae,71,5766737,479349,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+5HDYNgA78QsL5YqK9KNQfa,SAMEA6654234,Ghana,Passed,Klebsiella pneumoniae,65,5587748,295652,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+jTfSN5GgDbYyf6cCjXrfc9,SAMEA6155804,Nigeria,Passed,Klebsiella pneumoniae,63,5484031,473880,ST530,2,,OXA-1,CTX-M-15,NDM-5,1,K62,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncX3
+vc96La2inKC8EGjWVdn1JA,SAMN05960953,Nigeria,Passed,Klebsiella pneumoniae,74,5570024,181925,ST25,1,,-,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+gYuyXa9wDFdJ7wYo5JU7W7,SAMN46427850,Nigeria,Passed,Klebsiella pneumoniae,88,5569345,216616,ST464,1,,OXA-1,CTX-M-15,-,0,K34,O2β,IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR);repFIB
+hS3E85jgMkxLjxWH5aZooS,SAMEA6155861,Nigeria,Passed,Klebsiella pneumoniae,59,5451941,370463,ST4,1,,OXA-1,CTX-M-15,-,0,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncR
+8ybhuB6zFo6L8KJnHV6bzJ,SAMEA7472487,Nigeria,Passed,Klebsiella pneumoniae,127,5271951,89658,ST48,0,,-,-,-,1,K62,"O1αβ,2α",Col(pHAD28);Col440I
+5DPLDNgVqAUYMxUBNnpX8d,SAMEA7472498,Nigeria,Passed,Klebsiella pneumoniae,112,5635256,239926,ST395,2,,OXA-1,-,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);IncR
+9WgXfV9ohbX114RJ1XEZYn,SAMEA6156049,Nigeria,Passed,Klebsiella pneumoniae,81,5658893,361877,ST5244,1,,OXA-1*,CTX-M-15,-,1,unknown (KL112),"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+mK9drvor3FCJz3m45cgZ9F,SAMEA111504599,Ghana,Passed,Klebsiella pneumoniae,49,5345575,278150,ST65,0,,-,-,-,3,K2,"O1αβ,2β",IncHI1B(pNDM-MAR);repB
+1dD6dr1Xx318F5sMym8mPK,SAMEA6155841,Nigeria,Passed,Klebsiella pneumoniae,53,5665399,549080,ST392,1,,OXA-1,CTX-M-15,-,0,K27,O4,Col(pHAD28);IncC;IncFIB(K);IncFII(K)
+c7BPuXQTy5V3bPRc263poc,SAMEA6155775,Nigeria,Passed,Klebsiella pneumoniae,58,5795020,304443,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR)
+eMHFZzFv6jFJNsLQGdPAph,SAMEA6422742,Nigeria,Passed,Klebsiella pneumoniae,47,5617175,307976,ST307,1,,OXA-1,CTX-M-15,-,0,unknown (KL102),O2β,Col(pHAD28);Col440II;IncFIB(K);IncFII(K)
+vMANRNokQGFTwxTbb1sDjg,SAMEA6155848,Nigeria,Passed,Klebsiella pneumoniae,66,5662772,347876,ST392,1,,OXA-1,CTX-M-15,-,0,K27,O4,Col(pHAD28);IncC;IncFIB(K);IncFII(K)
+tKWU41iH2r9hDFNqMo9xbA,SAMEA7472416,Nigeria,Passed,Klebsiella pneumoniae,84,5446210,258679,ST39,1,,LAP-2;OXA-1,CTX-M-15,-,0,unknown (KL116),"O1αβ,2α",IncFIB(K)(pCAV1099-114);repFIB
+2y22DkeAoh6baAXP63VZ73,SAMEA6654215,Ghana,Passed,Klebsiella pneumoniae,73,5611056,333857,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+a6jMNgedDsnr896tvEX8rG,SAMEA6155884,Nigeria,Passed,Klebsiella pneumoniae,51,5628608,455518,ST307,1,,OXA-1,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+js2XkEcLLtJFqcTM647gMS,SAMN05960910,Nigeria,Passed,Klebsiella pneumoniae,46,5636214,386389,ST405,1,,OXA-1,CTX-M-15,-,1,unknown (KL151),O4,IncFIB(K);IncFII(K)
+dY98fxa1J8N6hj2A3dZSW1,SAMEA6155849,Nigeria,Passed,Klebsiella pneumoniae,49,5598657,429695,ST15,1,,OXA-1*,CTX-M-15,-,0,unknown (KL112),"O1αβ,2α",ColpVC;IncFIB(K);IncFIB(pKPHS1);IncFII(pKP91)
+i9Zyqzf9zeWVTVeChLW2gK,SAMEA6155846,Nigeria,Passed,Klebsiella pneumoniae,41,5456595,352268,ST15,0,,OXA-1,-,-,0,K45,"O1αβ,2β",IncFIB(K)(pCAV1099-114);IncFIB(pKPHS1);IncHI1B(pNDM-MAR);repFIB
+r3dEtv2UKyaUSEhVKQAE3a,SAMN05960969,Nigeria,Passed,Klebsiella pneumoniae,53,5549143,371448,ST48,1,,OXA-1,CTX-M-15,-,1,K62,"O1αβ,2α",Col(pHAD28);Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pKPHS1);IncFII(K);IncR;repB(R1701)
+avsR3aoHWpKrxHtbuQJNE3,SAMN31892432,Ghana,Passed,Klebsiella pneumoniae,42,5425826,249038,ST86,0,,-,-,-,4,K2,"O1αβ,2α",IncHI1B(pNDM-MAR);repB
+fkfw6v8V5L9fpaVQcDcdgq,SAMN05960911,Nigeria,Passed,Klebsiella pneumoniae,83,5873485,315422,ST1788,1,,-,CTX-M-15,-,1,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K);IncFIB(pKPHS1);IncFII(K);IncR
+nBu5iKHZw6KcKiVff7Mo42,SAMEA111505138,Nigeria,Passed,Klebsiella pneumoniae,65,5260684,288071,ST147,1,,-,CTX-M-15,-,0,unknown (KL149),O4,Col(pHAD28);IncFIA(HI1);IncR
+pUYpyHTa6mLcXXTvmu17cj,SAMEA111504605,Ghana,Passed,Klebsiella pneumoniae,80,5472791,223312,ST277,0,,-,-,-,0,K46,O3γ,Col(pHAD28);Col440I;IncFIB(K);IncFII(pKP91)
+3u2M4bP8E8FEtts9NL8zwh,SAMN05960876,Nigeria,Passed,Klebsiella pneumoniae,51,5441475,474366,ST48,1,,-,CTX-M-15;SHV-12,-,1,K62,"O1αβ,2α",IncFIB(K);IncFII(K);IncN
+1iGatNMGEwozrc3CjTqTTQ,SAMEA6155774,Nigeria,Passed,Klebsiella pneumoniae,68,5519317,341187,ST15,0,,-,-,-,1,K24,"O1αβ,2α",Col(pHAD28);ColpVC;IncFIB(K);IncFII(K);IncR
+8FYWd8LThvZ9Y6Zyieybuu,SAMEA111504601,Ghana,Passed,Klebsiella pneumoniae,81,5607467,193055,ST15,1,,-,CTX-M-15,-,1,K24,"O1αβ,2α",Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncR
+bBHa1P5WFEGbN4QvntczMf,SAMN45807626,Nigeria,Passed,Klebsiella pneumoniae,73,5569496,288551,ST39,1,,SCO-1,CTX-M-15,-,1,K2,O2α,Col(pHAD28);Col440I;IncFIB(K)(pCAV1099-114);repFIB
+8vAtrMRq8rShG8498C3APo,SAMEA6155868,Nigeria,Passed,Klebsiella pneumoniae,56,5580477,382161,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+rw2FnQ9Nw47SuVPECecaxS,SAMEA7472493,Nigeria,Passed,Klebsiella pneumoniae,141,5850313,197425,ST395,2,,OXA-1,CTX-M-15,NDM-1,0,unknown (KL108),"O1αβ,2β",Col(pHAD28);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR
+bDNoj7CmbDi3YdUm9rnnHv,SAMEA6654226,Ghana,Passed,Klebsiella pneumoniae,76,5761595,391834,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;ColRNAI;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+gQ4RZhU2Fq2NHHHt1X3xxs,SAMEA7472506,Nigeria,Passed,Klebsiella pneumoniae,112,5367677,184824,ST442,2,,OXA-1,CTX-M-15,NDM-1,0,K28,O2α,Col(pHAD28);ColpVC;IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR)
+tSegnv1aExMCpKgLcipTWc,SAMEA6155873,Nigeria,Passed,Klebsiella pneumoniae,35,5285509,361489,ST5247,0,,-,-,-,0,unknown (KL123),O3γ,
+cZL9YucYxMRgRYSKqHAkf9,SAMN05960900,Nigeria,Passed,Klebsiella pneumoniae,65,5477593,482401,ST231,1,,OXA-1,CTX-M-15,-,1,K51,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncR
+oHcLQJA47C4uM2MstCcNZs,SAMN36884873,Ghana,Passed,Klebsiella pneumoniae,67,5659558,307643,ST307,1,,OXA-1,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+p1V1vBbEzcSCkdctSoxGvv,SAMN31892431,Ghana,Passed,Klebsiella pneumoniae,38,5425544,443324,ST86,0,,-,-,-,4,K2,"O1αβ,2α",Col440I;IncHI1B(pNDM-MAR);repB
+7a1ykxskJv1qapxJNywMed,SAMN05960891,Nigeria,Passed,Klebsiella pneumoniae,52,5289012,421966,ST1418,1,,-,CTX-M-15,-,1,K13,O3γ,Col(pHAD28);IncFIA(HI1);IncR
+n2CUoGTd9tVyrfiBT4ETed,SAMEA112281696,Ghana,Passed,Klebsiella pneumoniae,135,5428735,85451,ST147,0,,TEM-190^,-,-,0,K10,O3αβ,Col(pHAD28);IncFII
+rxVfJKht4cLS5bLKSJDCKR,SAMEA6654237,Ghana,Passed,Klebsiella pneumoniae,105,5581607,349129,ST17,2,,-,CTX-M-15,OXA-181,1,K25,O5,ColKP3;IncFIB(pNDM-Mar);IncQ1;IncX3
+jvQjgseJhm24Wn9LABXPvi,SAMN05960880,Nigeria,Passed,Klebsiella pneumoniae,64,5649853,349734,ST14,1,,-,CTX-M-15,-,1,unknown (KL174),"O1αβ,2β",IncFIB(K);IncFIB(pKPHS1);repB(R1701)
+ddfGdB7UXRCGALkKxmFaLN,SAMEA6155864,Nigeria,Passed,Klebsiella pneumoniae,51,5461069,468629,ST403,1,,-,CTX-M-15,-,1,unknown (KL105),O3γ,IncFIB(K);IncR
+9JRe5HbixsAja9CCPWngkQ,SAMN05960926,Nigeria,Passed,Klebsiella pneumoniae,45,5413575,383191,ST307,1,,-,CTX-M-15,-,1,unknown (KL102),O2β,IncFIA(HI1);IncR
+tezudZ1n1Gw9XUJ9TSWAi3,SAMN36884880,Ghana,Passed,Klebsiella pneumoniae,48,5594136,292498,ST45,1,,-,CTX-M-15,-,1,K52,O13,IncFIB(K)
+fBGYQSGSRgUXkxAfUzEgjM,SAMN05960922,Nigeria,Passed,Klebsiella pneumoniae,89,5509744,321197,ST25,1,,LAP-2;OXA-1,CTX-M-15,-,0,K2,"O1αβ,2β",Col(pHAD28);IncFIB(K)(pCAV1099-114)
+2BhSj3cMz4594YSASwtxkL,SAMN05960890,Nigeria,Passed,Klebsiella pneumoniae,69,5364860,369282,ST16,0,,-,-,-,0,unknown (KL128),O3γ,IncFIB(K)(pCAV1099-114);IncHI1B(pNDM-MAR);repFIB
+ejSuDDKNELtXastMKdP4Gn,SAMN36943785,Nigeria,Passed,Klebsiella pneumoniae,132,5184026,94271,ST742-1LV,0,,-,-,-,0,unknown (KL120),O4,Col(pHAD28);IncFIB(K);IncFII(K);IncR
+e5mdCN625ogAAYe5GmcRV7,SAMEA6155820,Nigeria,Passed,Klebsiella pneumoniae,60,5576013,364726,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+xgpU71frMpZk9hN4NX7dRs,SAMEA6155823,Nigeria,Passed,Klebsiella pneumoniae,117,5129202,118166,ST340,1,,-,CTX-M-15,-,0,Capsule null,O4,IncFIA(HI1);IncR;repB(R1701)
+jHHRPhXLii1thENvb2beLw,SAMEA6155815,Nigeria,Passed,Klebsiella pneumoniae,85,5616661,314567,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440I;Col440II;ColRNAI;IncFIB(K);IncFII(pKP91)
+sEcKy31N8HPrfyASy8cmMa,SAMEA6654248,Ghana,Passed,Klebsiella pneumoniae,98,5714104,273810,ST48,2,,OXA-1,CTX-M-15,OXA-181,1,K62,"O1αβ,2α",Col(pHAD28);ColKP3;IncFIB(pNDM-Mar);IncN;IncQ1;IncX3
+9Uhc2FSEo32fmMFRJYhcUU,SAMEA7472465,Nigeria,Passed,Klebsiella pneumoniae,88,5356478,189996,ST73,1,,OXA-1,CTX-M-15,-,0,K25,"O1αβ,2α",Col(pHAD28);IncFIB(K);IncFII(pKP91)
+tnDHfYfwy9D5yExRP7cXYM,SAMEA6155776,Nigeria,Passed,Klebsiella pneumoniae,61,5485426,473936,ST530,2,,OXA-1,CTX-M-15,NDM-5,1,K62,"O1αβ,2β",Col(pHAD28);Col440I;IncFIB(K);IncFII(K);IncX3
+hW2fuA7K2os5f23Tb3Me4V,SAMEA6155810,Nigeria,Passed,Klebsiella pneumoniae,53,5740229,528815,ST1801,1,,OXA-1,CTX-M-15,-,0,K35,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K)
+8NV8QKADQ1BfixSmgJy7Uc,SAMN05960944,Nigeria,Passed,Klebsiella pneumoniae,141,5784769,162706,ST12,1,,OXA-1,CTX-M-15,-,0,unknown (KL157),O2α,Col440II;IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);RepB;repFIB
+jBWJnZFCPoUasGYswoHSLE,SAMEA6155879,Nigeria,Passed,Klebsiella pneumoniae,55,5579135,378782,ST307,1,,-,CTX-M-15,-,0,unknown (KL102),O2β,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+46UxQkGvaUxFbWw1rB64GG,SAMEA8515152,Nigeria,Passed,Klebsiella pneumoniae,101,5463325,192893,ST39,2,,-,-,NDM-7,1,K23,"O1αβ,2β",Col(pHAD28);IncFII(K);IncX3;repB(R1701)
+uvEkq8mRRQPLumxuH3dDwK,SAMEA7472478,Nigeria,Passed,Klebsiella pneumoniae,59,5501729,457046,ST985,1,,OXA-1,CTX-M-15,-,1,K39,"O1αβ,2β",IncFIB(K);IncFII(K)
+wWnFWWZgQSRdZXLHG7jxP7,SAMN05960892,Nigeria,Passed,Klebsiella pneumoniae,103,5671830,287096,ST39,0,,SCO-1,-,-,0,K51,"O1αβ,2β",IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFII(K);IncHI1B(pNDM-MAR);repFIB
+bquu8zBfyYvHZZL78qD6tj,SAMN05960941,Nigeria,Passed,Klebsiella pneumoniae,102,5587128,214224,ST17,1,,-,CTX-M-15,-,1,K2,O2α,Col(pHAD28);ColRNAI;IncFIA(HI1);IncFIB(K);IncFII(K);IncR;repB(R1701)
+8VXzR8XaRRP1JhFB24qeEc,SAMEA111505120,Nigeria,Passed,Klebsiella pneumoniae,70,5561368,232501,ST101,1,,OXA-1,CTX-M-15,-,1,K17,"O1αβ,2α",Col(pHAD28);Col440II;IncFIA(HI1);IncFIB(K);IncR
+kqeLJxAzwr882v6QkeP2k1,SAMN05960878,Nigeria,Passed,Klebsiella pneumoniae,70,5591853,281526,ST17,1,,-,CTX-M-15,-,1,K25,O5,IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+w5D7sGqDTbHY3uzAgdVS9g,SAMEA6155850,Nigeria,Passed,Klebsiella pneumoniae,74,5843055,388792,ST147,1,,OXA-1,CTX-M-15,-,1,K64,O2α,Col440I;IncFIB(K);IncFIB(pNDM-Mar);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR)
+dsMn34yULN54GxBEgXT361,SAMEA6155856,Nigeria,Passed,Klebsiella pneumoniae,41,5410836,451955,ST5243,0,,-,-,-,0,K12,"O1αβ,2α",IncFIB(K);IncFII(pKP91);IncR
+aHQ3Jixe7VnXW3ieupEnPf,SAMEA7472398,Nigeria,Passed,Klebsiella pneumoniae,97,5516048,209599,ST11,2,,OXA-1,CTX-M-15,NDM-5,1,K15,O4,Col440I;Col440II;IncFIB(K);IncFII(K);IncX3
+x3LoLQefs6Bsf7wC8SHqPC,SAMEA6422781,Nigeria,Passed,Klebsiella pneumoniae,94,5947030,378713,ST307,2,,SCO-1;OXA-9.v1,CTX-M-15,NDM-1,1,unknown (KL102),O2β,Col440I;IncFIA(HI1);IncFIB(K);IncFIB(pNDM-Mar);IncFII(K);IncHI1B(pNDM-MAR);IncR
+spa5BonHmewtQxFfRGzo3Z,SAMEA7472502,Nigeria,Passed,Klebsiella pneumoniae,95,5639622,306385,ST20,2,,-,-,NDM-1,0,K28,"O1αβ,2β",Col(pHAD28);IncFIA(HI1);IncFIB(K)(pCAV1099-114);IncFIB(pNDM-Mar);IncHI1B(pNDM-MAR);repFIB
+9sE5qy5xqsGY2xaodzMopi,SAMEA6155839,Nigeria,Passed,Klebsiella pneumoniae,66,5556355,282775,ST147,0,,-,-,-,0,K10,O3αβ,Col(pHAD28);Col440I;IncM2
+3AJK3c5jFBmgxDy2gChsW6,SAMEA111505141,Nigeria,Passed,Klebsiella pneumoniae,80,5433966,215055,ST5240,1,,-,CTX-M-15,-,1,unknown (KL102),O2β,Col(pHAD28);IncFIB(K);IncFII(K)
+bzCc3Xerf8PwGcW2vKZFtx,SAMEA6155797,Nigeria,Passed,Klebsiella pneumoniae,20,5121893,734790,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+pDiV8Gt7SwFFgreytfi7Hs,SAMN05960927,Nigeria,Passed,Klebsiella pneumoniae,64,5438437,301778,ST101,0,,-,-,-,0,unknown (KL106),"O1αβ,2β",IncFIB(K);IncFII(pKP91)
+azq911uyDWwcXBStdjpCVW,SAMEA6155880,Nigeria,Passed,Klebsiella pneumoniae,19,5124515,922866,ST5241,0,,-,-,-,0,unknown (KL123),O5,Col440I;IncFIA(HI1);IncR
+xguuWbXG7xoxRmrunrFe1U,SAMN05960871,Nigeria,Passed,Klebsiella pneumoniae,72,5164534,200282,ST3613,0,,-,-,-,0,unknown (KL166),"O11αβ,2γ",Col(MGD2);Col440I;IncFIA(HI1)
+xaMyne9sa6U6DnZNNRE8F6,SAMEA6654227,Ghana,Passed,Klebsiella pneumoniae,74,5762079,375725,ST17,2,,-,CTX-M-15,OXA-181,1,Capsule null,O5,ColKP3;ColRNAI;IncFIB(K);IncFIB(pNDM-Mar);IncFII(pKP91);IncQ1;IncX3
+7aR3p2hMP7yySU3AEsfjTf,SAMEA6155801,Nigeria,Passed,Klebsiella pneumoniae,52,5738504,2994079,ST1801,1,,OXA-1,CTX-M-15,-,0,K35,"O1αβ,2α",IncFIB(K);IncFIB(pNDM-Mar);IncFII(K)
+e2FN2dMA7TPmZQ8fRP7V1j,SAMN05960919,Nigeria,Passed,Klebsiella pneumoniae,63,5648646,335069,ST45,1,,-,CTX-M-15,-,1,K20,O3αβ,Col(pHAD28);Col440II;IncFIA(HI1);IncFIB(K);IncFII(K);IncR
+iNE6FvQH4fXR8XwrPTUzfh,SAMEA7472429,Nigeria,Passed,Klebsiella pneumoniae,80,5703438,340377,ST464,2,,OXA-1,CTX-M-15,NDM-7,1,K53,"O1αβ,2α",Col440I;ColpVC;IncFIB(K)(pCAV1099-114);IncFIB(pQil);IncFII(K);IncHI1B(pNDM-MAR);IncX3

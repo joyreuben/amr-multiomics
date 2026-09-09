@@ -1,0 +1,23 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000124__KP125893_00142|IncFII	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	207	45827	1	207	44049	44255	207	1	99.517	100.0	100.0	plus	1.87e-105	377	replicon
+000107__CP014778_00094|IncFIB	NZ_JALJUW010000061.1 Klebsiella pneumoniae strain E50-2 contig00061, whole genome shotgun sequence	1011	8055	1	1011	3172	4182	1011	94	90.702	100.0	100.0	plus	0.0	1347	replicon
+LT985313_00005|rep_cluster_2373	NZ_JALJUW010000071.1 Klebsiella pneumoniae strain E50-2 contig00071, whole genome shotgun sequence	432	4471	5	382	2107	2484	379	16	95.251	88.0	88.0	plus	8.1e-172	599	replicon
+CP024554_00008|ColRNAI_rep_cluster_1987	NZ_JALJUW010000073.1 Klebsiella pneumoniae strain E50-2 contig00073, whole genome shotgun sequence	411	3972	3	407	1066	1470	405	19	95.309	99.0	99.0	minus	0.0	643	replicon
+CP035180_00077|MOBF	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	687	45827	1	251	32859	33614	252	18	92.46	37.0	99.0	plus	0.0	380	relaxase
+NC_021231_00058|MOBF	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	1753	45827	1	1753	33626	38881	1753	84	95.151	100.0	100.0	plus	0.0	3266	relaxase
+NC_013284_00016|MPF_T	NZ_JALJUW010000002.1 Klebsiella pneumoniae strain E50-2 contig00002, whole genome shotgun sequence	914	300127	1	914	269630	272365	914	80	91.028	100.0	100.0	plus	0.0	1728	mate-pair-formation
+NC_010726_00011|MPF_T	NZ_JALJUW010000002.1 Klebsiella pneumoniae strain E50-2 contig00002, whole genome shotgun sequence	358	300127	5	358	273356	274417	354	45	87.288	99.0	99.0	plus	2.54e-175	538	mate-pair-formation
+NC_005814_00013|MPF_T	NZ_JALJUW010000002.1 Klebsiella pneumoniae strain E50-2 contig00002, whole genome shotgun sequence	227	300127	1	227	274642	275322	227	3	98.678	100.0	100.0	plus	1.73e-132	409	mate-pair-formation
+NC_010726_00014|MPF_T	NZ_JALJUW010000002.1 Klebsiella pneumoniae strain E50-2 contig00002, whole genome shotgun sequence	301	300127	1	301	275325	276227	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation
+NC_014312_00116|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	101	45827	1	101	6606	6908	101	0	100.0	100.0	100.0	plus	4.4e-64	206	mate-pair-formation
+NC_014312_00118|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	246	45827	1	246	7484	8221	246	3	98.78	100.0	100.0	plus	5.34e-161	491	mate-pair-formation
+NC_023332_00154|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	474	45827	1	474	8224	9645	474	2	99.578	100.0	100.0	plus	0.0	791	mate-pair-formation
+NC_019389_00068|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	194	45827	23	194	10326	10841	172	10	94.186	89.0	89.0	plus	2.81e-107	335	mate-pair-formation
+NC_021502_00131|MPF_T	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	879	45827	1	879	13615	16251	879	43	95.108	100.0	100.0	plus	0.0	1736	mate-pair-formation
+NC_014312_00128|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	211	45827	1	211	16643	17275	211	2	99.052	100.0	100.0	plus	3.37e-129	398	mate-pair-formation
+NC_022609_00081|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	330	45827	1	330	17711	18697	330	15	95.152	100.0	100.0	plus	0.0	652	mate-pair-formation
+NC_011281_00082|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	215	45827	1	215	18976	19620	215	10	95.349	100.0	100.0	plus	7.51e-128	395	mate-pair-formation
+NC_021654_00016|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	668	45827	15	668	19673	21634	654	10	98.471	98.0	98.0	plus	0.0	1243	mate-pair-formation
+NC_019165_00034|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	456	45827	5	455	24528	25880	451	21	95.344	99.0	99.0	plus	0.0	797	mate-pair-formation
+NC_019155_00032|MPF_F	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	959	45827	1	951	25886	28741	952	71	92.437	99.0	99.0	plus	0.0	1700	mate-pair-formation
+NC_021502_00150|MPF_T	NZ_JALJUW010000034.1 Klebsiella pneumoniae strain E50-2 contig00034, whole genome shotgun sequence	770	45827	1	770	31314	33623	770	5	99.351	100.0	100.0	plus	0.0	1452	mate-pair-formation

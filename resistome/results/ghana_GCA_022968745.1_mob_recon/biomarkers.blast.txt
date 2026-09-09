@@ -1,0 +1,10 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+CP000974_00005|rep_cluster_2358	JALJUU010000213.1 Klebsiella pneumoniae strain P109 contig00213, whole genome shotgun sequence	528	5101	1	524	2557	3065	528	34	89.205	99.0	99.0	minus	0.0	638	replicon
+000212__CP012556_00176|IncU	JALJUU010000438.1 Klebsiella pneumoniae strain P109 contig00438, whole genome shotgun sequence	1098	3558	1	1098	1945	3042	1098	32	97.086	100.0	100.0	minus	0.0	1851	replicon
+000107__CP014778_00094|IncFIB	JALJUU010000815.1 Klebsiella pneumoniae strain P109 contig00815, whole genome shotgun sequence	1011	2269	1	1011	311	1321	1011	2	99.802	100.0	100.0	plus	0.0	1857	replicon
+000204__CP008701_00115|IncR	JALJUU010001028.1 Klebsiella pneumoniae strain P109 contig01028, whole genome shotgun sequence	894	1840	1	894	755	1649	896	8	98.772	100.0	100.0	plus	0.0	1591	replicon
+JN420336|IncHI1B	JALJUU010002042.1 Klebsiella pneumoniae strain P109 contig02042, whole genome shotgun sequence	570	694	1	478	1	478	478	0	100.0	84.0	84.0	minus	0.0	883	replicon
+NC_013284_00016|MPF_T	JALJUU010000002.1 Klebsiella pneumoniae strain P109 contig00002, whole genome shotgun sequence	914	58175	1	914	35797	38532	914	82	90.81	100.0	100.0	plus	0.0	1725	mate-pair-formation
+NC_010726_00011|MPF_T	JALJUU010000002.1 Klebsiella pneumoniae strain P109 contig00002, whole genome shotgun sequence	358	58175	5	358	39523	40584	354	46	87.006	99.0	99.0	plus	2.89e-174	535	mate-pair-formation
+NC_005814_00013|MPF_T	JALJUU010000002.1 Klebsiella pneumoniae strain P109 contig00002, whole genome shotgun sequence	227	58175	1	227	40809	41489	227	3	98.678	100.0	100.0	plus	1.89e-132	409	mate-pair-formation
+NC_010726_00014|MPF_T	JALJUU010000002.1 Klebsiella pneumoniae strain P109 contig00002, whole genome shotgun sequence	301	58175	1	301	41492	42394	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation
