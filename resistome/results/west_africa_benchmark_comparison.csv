@@ -1,0 +1,16 @@
+sample_id,st,esbl_genes,carbapenemase_genes,esbl_positive,carbapenemase_positive,quality_flag
+ghana_GCA_022968005.1,1996,,,False,False,
+ghana_GCA_022968085.1,464,blaCTX-M-15;blaOXA-1;blaSHV-38,,True,False,
+ghana_GCA_022968155.1,39,blaCTX-M-15;blaOXA-1,,True,False,
+ghana_GCA_022968255.1,1552,blaCTX-M-15;blaOXA-1,,True,False,
+ghana_GCA_022968275.1,815,blaCTX-M-15,,True,False,
+ghana_GCA_022968285.1,636,,,False,False,
+ghana_GCA_022968315.1,39,blaDHA-1,,True,False,
+ghana_GCA_022968365.1,39,,,False,False,
+ghana_GCA_022968715.1,307,blaCTX-M-15;blaOXA-1,,True,False,
+ghana_GCA_022968735.1,39,blaCTX-M-15;blaOXA-1,,True,False,
+ghana_GCA_022968745.1,-,blaCTX-M-15;blaOXA-1,,True,False,"2594 contigs / 6.08 Mbp (oversized, highly fragmented); partial mdh allele, ST unresolved"
+ghana_GCA_025660315.1,-,blaCTX-M-15;blaOXA-1,,True,False,no kpneumoniae MLST loci; auto-detect matches ecoli scheme; mixed K. pneumoniae/E. coli contigs in mob_recon mash
+nigeria_ERR7226174,3321,,,False,False,
+nigeria_ERR7226188,86,blaCTX-M-15;blaOXA-1,,True,False,
+nigeria_ERR7226212,86,blaCTX-M-15;blaOXA-1,,True,False,
