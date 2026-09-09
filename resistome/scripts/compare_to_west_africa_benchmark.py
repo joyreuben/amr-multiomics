@@ -38,8 +38,17 @@ OUT = f"{RESULTS}/west_africa_benchmark_comparison.csv"
 # Genomes excluded from the primary figures on quality/identity grounds; see
 # the notes emitted at the bottom of this script's output.
 SUSPECT = {
-    "ghana_GCA_025660315.1": "no kpneumoniae MLST loci; auto-detect matches ecoli scheme; mixed K. pneumoniae/E. coli contigs in mob_recon mash",
-    "ghana_GCA_022968745.1": "2594 contigs / 6.08 Mbp (oversized, highly fragmented); partial mdh allele, ST unresolved",
+    # Bimodal GC: ~1.4 Mbp of contigs at 50-52% GC alongside ~2.6 Mbp at
+    # 56-58% GC, i.e. two organisms co-assembled. mlst finds gapA/pgi/phoE at
+    # ~100% but rpoB at only 95.2% and infB/mdh/tonB absent entirely; mob_recon
+    # mash assigns some contigs to K. pneumoniae and others to E. coli.
+    # NB: mlst prints every locus as "-" here, which looks like "no loci
+    # found" but is really mlst blanking a partial result (SCORE=47,
+    # 4/-/-/52/1/~146/-) that fell below its acceptance threshold.
+    "ghana_GCA_025660315.1": "contaminated: bimodal GC (50-52% + 56-58%), 3/7 MLST loci absent, rpoB 95.2%",
+    # GC smeared flat across 45-62% with no dominant peak, 2594 contigs,
+    # 6.08 Mbp (K. pneumoniae is ~5.3 Mbp): multi-organism contamination.
+    "ghana_GCA_022968745.1": "contaminated: no dominant GC peak, 2594 contigs, 6.08 Mbp (oversized)",
 }
 
 
