@@ -21,6 +21,10 @@ localDB/
 resistome/raw/pw_*.fna
 resistome/raw/pw_reads/
 resistome/results/pathogenwatch_west_africa/pathogenwatch-cgmlst.csv
+# 2.5 MB cache of the 557x557 cgMLST distance matrix, rebuilt in ~10 s by
+# build_cgmlst_tree.py from the cgMLST export. The tree and its annotation
+# table, which are what anyone actually reads, are committed.
+resistome/results/cgmlst_distance.npy
 
 # Windows alternate-data-stream cruft from copying files through the WSL mount
 *:Zone.Identifier
