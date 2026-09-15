@@ -13,6 +13,13 @@ __pycache__/
 /card.json
 localDB/
 !resistome/raw/*.fna
+# ...except the carbapenemase cohort. 99 assemblies at ~5.8 MB would add ~570 MB
+# to a .git that is already 357 MB, and unlike the study genomes these are
+# regenerable: carbapenemase_cohort.tsv pins the accessions and
+# assemble_carbapenemase_cohort.sh pins the pipeline. The derived evidence
+# (AMRFinder calls, mob_recon contig reports) is small and is committed.
+resistome/raw/pw_*.fna
+resistome/raw/pw_reads/
 resistome/results/pathogenwatch_west_africa/pathogenwatch-cgmlst.csv
 
 # Windows alternate-data-stream cruft from copying files through the WSL mount
