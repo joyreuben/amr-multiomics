@@ -23,6 +23,23 @@ their distribution reflects clonal expansion or repeated horizontal acquisition.
    by contributing study rather than epidemiology, and report it as a limit on
    what public genome collections can support for AMR surveillance in the region.
 
+### Resolve the carbapenemase to gene family, not a binary
+99/557 genomes carry an acquired carbapenemase, in two families that barely
+overlap: **NDM** (NDM-1 46, NDM-7 12, NDM-5 3) and **OXA-48-like** (OXA-181 34,
+OXA-48 5). One ST152 genome carries both. No KPC, VIM, IMP or GES anywhere in
+the collection.
+
+The two families track different lineages. ST17 is 28/28 OXA-181 with zero NDM;
+the next four largest positive lineages — ST464 (NDM-7), ST147, ST395, ST442
+(NDM-1) — are pure NDM. Carriage is spread across 28 distinct STs.
+
+So objectives 1–3 must stratify by family. These are two independent gene flows
+in different clonal backgrounds, on vehicles expected to differ (OXA-181 on
+ColKP3/IncX3, NDM on IncF/IncC); a `carbapenemase+` flag averages across exactly
+the contrast those objectives exist to measure, and would make a shared-replicon
+signal unreadable. The binary in `profile_west_africa_sampling.py` is correct
+**only** for objective 4, where gene identity does not bear on the question.
+
 ### Objectives that were dropped, and why
 The original objective was multi-omics (host genomics + microbiome + resistome)
 modeling of AMR emergence in **CAP-causing pathogens**. Changed 2026-09-14 with
