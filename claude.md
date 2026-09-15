@@ -71,6 +71,7 @@ Kleborate virulence score ≥3 together with resistance score ≥1.
 - Cite the source/tool version for any bioinformatics result.
 - Keep each omics track's code in its own folder: host_genomics/, microbiome/, resistome/
 - Shared feature tables go in integration/
+
 - Before stratifying the Pathogenwatch collection by country, year or isolation
   source, check `resistome/DATA_PROVENANCE.md`. Both the sample compartment and
   the contributing study confound those comparisons.
@@ -86,14 +87,47 @@ Kleborate virulence score ≥3 together with resistance score ≥1.
   gene-presence work, not for stratified comparison.
 
 ## Current status
-Resistome track only. 4-tool pipeline (AMRFinderPlus, RGI, PlasmidFinder,
-MOB-suite) run end-to-end on all 27 genomes; MLST and Kleborate typing done;
-sampling-frame profiling done. Gene detection is independently verified three
-ways (AMRFinderPlus, Kleborate, read-level mapping with a blaCTX-M-15 positive
-control).
+Resistome track only. Objectives 1, 3 and 4 are done; objective 2 is prepared
+and method-verified but not run.
 
-Next: objectives 1 and 2 — join carbapenemase calls to cgMLST distances and to
-plasmid replicon assignments across the 557.
+**Objective 1 — done.** `lineage_structure_carbapenemase.py` →
+`results/lineage_structure.tsv`. The 99 positives need a minimum of 37
+independent acquisitions across 28 STs, counted as distinct (clone, family)
+pairs at 10 cgMLST alleles. Robust to threshold: 40 acquisitions at 5 alleles,
+31 at 50. ST17 is the one true clone (28 × OXA-181, median 1 allele apart, 117
+from its own ST17 negatives); ST147/ST392/ST15 are repeated acquisition into
+one lineage; ST395 positives sit 0 alleles from same-ST negatives, so the gene
+varies within a clone. Caveat carried in the output: 5 single-clone STs, ST17
+included, come from one BioProject each, so an outbreak one study sampled
+cannot be told from a widespread clone.
+
+**Objective 3 — done.** `resistome_architecture.py` →
+`results/resistome_architecture.tsv`. NDM and OXA-48-like carry disjoint cargo,
+and the aminoglycoside markers are perfectly exclusive: armA 25/60 NDM vs 0/38
+OXA, rmtB 0/60 vs 28/38, aph(3')-VI 27/60 vs 0/38, tet(G) 0/60 vs 28/38. armA
+and rmtB are interchangeable 16S methyltransferases and no genome has both —
+two vehicles, argued without any assembly. Associations are reported crude and
+CMH-stratified by study; 20 of 99 tests are significant collection-wide but not
+within study, so always read the CMH column.
+
+**Objective 4 — done.** See `DATA_PROVENANCE.md`.
+
+**Objective 2 — blocked on compute, not on method.** The export has no contig
+coordinates for AMR genes, so the assemblies are required.
+`carbapenemase_cohort.tsv` pins the 99 genomes (all resolve to paired ENA
+reads, 27.2 GB) and `assemble_carbapenemase_cohort.sh` pins the pipeline. All
+99 are assembled from reads even though 40 have public NCBI assemblies, because
+mixing assemblers would confound the plasmid-vs-chromosome call that objective
+2 rests on. Verified end-to-end on ERR4783440 (ST392, NDM-1): 167 contigs,
+N50 215 kb, and blaNDM-1 lands on a plasmid contig in mob_suite cluster AA405
+alongside CTX-M-15, OXA-1 and TEM-1 — 21 AMR genes on plasmid contigs against 7
+on the chromosome. Budget ~45 min/genome, so ~3 days for the cohort. Note
+`rep_type(s)` came back `-` on those contigs, so replicon naming may have to
+fall back on mob_suite cluster IDs; measure how often before relying on it.
+
+Cohort assemblies (`raw/pw_*.fna`) are gitignored — 99 × ~5.8 MB against a
+`.git` already at 357 MB, and they regenerate from the manifest plus the
+script. Derived evidence is committed.
 
 Superseded: `resistome/scripts/compare_to_west_africa_benchmark.py` compares
 study genomes against a clinical-only benchmark across mismatched compartments.
