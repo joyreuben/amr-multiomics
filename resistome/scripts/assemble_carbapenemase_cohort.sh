@@ -56,20 +56,39 @@ for row in "${ROWS[@]}"; do
     continue
   fi
 
+  # wget exits 0 on a truncated file, so the gzip stream is verified before use:
+  # an unverified short read reached fastp as "invalid gzip header" and, being
+  # unguarded, took the whole run down with it under set -e.
   echo "=== $acc: downloading reads ==="
-  if ! wget -q --tries=3 --timeout=120 "https://$url1" -O "resistome/raw/pw_reads/${acc}_1.fastq.gz" ||
-     ! wget -q --tries=3 --timeout=120 "https://$url2" -O "resistome/raw/pw_reads/${acc}_2.fastq.gz"; then
-    echo "!!! $acc: download failed, skipping" >&2
+  download_ok=0
+  for attempt in 1 2; do
+    if wget -q --tries=3 --timeout=120 "https://$url1" -O "resistome/raw/pw_reads/${acc}_1.fastq.gz" &&
+       wget -q --tries=3 --timeout=120 "https://$url2" -O "resistome/raw/pw_reads/${acc}_2.fastq.gz" &&
+       gzip -t "resistome/raw/pw_reads/${acc}_1.fastq.gz" 2>/dev/null &&
+       gzip -t "resistome/raw/pw_reads/${acc}_2.fastq.gz" 2>/dev/null; then
+      download_ok=1
+      break
+    fi
+    echo "!!! $acc: download incomplete or corrupt (attempt $attempt)" >&2
     rm -f "resistome/raw/pw_reads/${acc}_1.fastq.gz" "resistome/raw/pw_reads/${acc}_2.fastq.gz"
+  done
+  if [ "$download_ok" -ne 1 ]; then
+    echo "!!! $acc: download failed twice, skipping" >&2
     failed+=("$acc:download")
     continue
   fi
 
   echo "=== $acc: quality control ==="
-  fastp -i "resistome/raw/pw_reads/${acc}_1.fastq.gz" -I "resistome/raw/pw_reads/${acc}_2.fastq.gz" \
-        -o "resistome/processed/pw_qc/${acc}_1.trim.fastq.gz" -O "resistome/processed/pw_qc/${acc}_2.trim.fastq.gz" \
-        -j "resistome/processed/pw_qc/${acc}_fastp.json" -h "resistome/processed/pw_qc/${acc}_fastp.html" \
-        --thread "$THREADS" 2>&1 | tail -3
+  if ! fastp -i "resistome/raw/pw_reads/${acc}_1.fastq.gz" -I "resistome/raw/pw_reads/${acc}_2.fastq.gz" \
+             -o "resistome/processed/pw_qc/${acc}_1.trim.fastq.gz" -O "resistome/processed/pw_qc/${acc}_2.trim.fastq.gz" \
+             -j "resistome/processed/pw_qc/${acc}_fastp.json" -h "resistome/processed/pw_qc/${acc}_fastp.html" \
+             --thread "$THREADS" > "resistome/processed/pw_qc/${acc}_fastp.log" 2>&1; then
+    echo "!!! $acc: fastp failed, skipping (see ${acc}_fastp.log)" >&2
+    failed+=("$acc:qc")
+    rm -f "resistome/raw/pw_reads/${acc}"_*.fastq.gz
+    continue
+  fi
+  tail -3 "resistome/processed/pw_qc/${acc}_fastp.log"
 
   echo "=== $acc: assembly (slow step) ==="
   if ! shovill --outdir "resistome/processed/pw_assembly/${acc}" \
