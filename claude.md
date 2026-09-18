@@ -135,12 +135,30 @@ have it, aph(3')-VI in 5/5 — whereas blaCTX-M-15, common everywhere, is only
 9/19. Genome-level co-occurrence and same-replicon carriage are not the same
 claim, and only this analysis separates them.
 
-Two cautions. `rep_type(s)` resolves for only 6/18 carbapenemase contigs while
-mob_suite cluster resolves 18/18, so clusters are the unit throughout. And
-clusters are mash-similarity groups, not proof of an identical plasmid — AA038
-carries OXA-181 in three STs but also NDM-7 in ST464, so treat it as a plasmid
-family. Cargo is aggregated per cluster, never per contig: these assemblies run
-167–215 contigs and one plasmid is routinely split across several.
+**Same cluster confirmed as the same plasmid.** `compare_plasmids.py` →
+`results/plasmid_comparison.tsv` aligns every pair of reconstructed plasmids
+(mash for ANI, blastn for reciprocal coverage; "same plasmid" = ≥95% identity
+and ≥80% reciprocal coverage — identity alone would call any two plasmids
+sharing a transposon identical).
+
+The OXA-181 plasmid is the same element in ST17, ST234 and ST340: 11
+cross-lineage pairs at **100% identity** and 79–96% coverage, 10/11 meeting the
+threshold, and **statistically indistinguishable from within-ST pairs** (median
+coverage 89.3% cross vs 91.7% within). Clonal descent cannot explain that — it
+is one plasmid moving between lineages. AA405 behaves the same for NDM-1 across
+ST147/ST307/ST340/ST392 (5/6 pairs, 97–99% identity) and AA002 for OXA-48
+across ST307/ST392.
+
+The plasmid-family caution was right and now has a number. AA038's ST464
+NDM-7 member is **0/6** against the OXA-181 members at 68–80% coverage, so the
+cluster splits exactly along gene lines: the OXA-181 members are one plasmid,
+the NDM-7 member is a relative. Also note AA019 within ST147 is only 1/3, so a
+shared cluster inside a single ST is not automatically a shared plasmid either.
+
+Remaining caution: `rep_type(s)` resolves for only 6/18 carbapenemase contigs
+while mob_suite cluster resolves 18/18, so clusters are the unit throughout.
+Cargo is aggregated per cluster, never per contig: these assemblies run 167–215
+contigs and one plasmid is routinely split across several.
 
 Cohort assemblies (`raw/pw_*.fna`) are gitignored — 99 × ~5.8 MB against a
 `.git` already at 357 MB, and they regenerate from the manifest plus the
