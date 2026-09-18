@@ -25,6 +25,15 @@ resistome/results/pathogenwatch_west_africa/pathogenwatch-cgmlst.csv
 # build_cgmlst_tree.py from the cgMLST export. The tree and its annotation
 # table, which are what anyone actually reads, are committed.
 resistome/results/cgmlst_distance.npy
+# mob_recon bulk: chromosome.fasta is ~5.3 MB per genome (~100 MB over the
+# subset) and is just the host contigs, not the finding. The reconstructed
+# plasmid FASTAs are kept — 7.3 MB total, they are the actual evidence for the
+# shared-vehicle claim, and the assemblies they derive from are not committed,
+# so regenerating them would mean re-assembling.
+resistome/results/pw_*_mob_recon/chromosome.fasta
+resistome/results/pw_*_mob_recon/__tmp/
+resistome/results/pw_*.log
+resistome/results/pw_*_mob_recon/*.log
 
 # Windows alternate-data-stream cruft from copying files through the WSL mount
 *:Zone.Identifier

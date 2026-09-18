@@ -72,8 +72,33 @@ for row in "${ROWS[@]}"; do
     echo "!!! $acc: download incomplete or corrupt (attempt $attempt)" >&2
     rm -f "resistome/raw/pw_reads/${acc}_1.fastq.gz" "resistome/raw/pw_reads/${acc}_2.fastq.gz"
   done
+  # ENA's generated fastq path can be broken for an individual run even while
+  # the record advertises a size and md5: ERR13492053_1.fastq.gz redirects to a
+  # directory listing and serves text/html, so the download "succeeds" and the
+  # gzip check then rejects it. The originally submitted files live under a
+  # different path and are usually intact, so fall back to those before giving
+  # up. Looked up at runtime rather than carried in the manifest, so the
+  # manifest's column order stays stable.
   if [ "$download_ok" -ne 1 ]; then
-    echo "!!! $acc: download failed twice, skipping" >&2
+    echo "=== $acc: generated FASTQ unusable, trying submitted files ==="
+    submitted=$(curl -sS --max-time 60 \
+      "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=${acc}&result=read_run&fields=submitted_ftp&format=tsv" \
+      2>/dev/null | tail -n +2 | cut -f2 | head -1 || true)
+    IFS=';' read -r sub1 sub2 <<< "${submitted:-}"
+    if [ -n "${sub1:-}" ] && [ -n "${sub2:-}" ] && [ "$sub1" != "$sub2" ] &&
+       wget -q --tries=3 --timeout=180 "https://$sub1" -O "resistome/raw/pw_reads/${acc}_1.fastq.gz" &&
+       wget -q --tries=3 --timeout=180 "https://$sub2" -O "resistome/raw/pw_reads/${acc}_2.fastq.gz" &&
+       gzip -t "resistome/raw/pw_reads/${acc}_1.fastq.gz" 2>/dev/null &&
+       gzip -t "resistome/raw/pw_reads/${acc}_2.fastq.gz" 2>/dev/null; then
+      echo "=== $acc: recovered from submitted files ==="
+      download_ok=1
+    else
+      rm -f "resistome/raw/pw_reads/${acc}_1.fastq.gz" "resistome/raw/pw_reads/${acc}_2.fastq.gz"
+    fi
+  fi
+
+  if [ "$download_ok" -ne 1 ]; then
+    echo "!!! $acc: download failed, skipping" >&2
     failed+=("$acc:download")
     continue
   fi

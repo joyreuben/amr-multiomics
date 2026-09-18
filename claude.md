@@ -72,6 +72,8 @@ Kleborate virulence score ≥3 together with resistance score ≥1.
 - Keep each omics track's code in its own folder: host_genomics/, microbiome/, resistome/
 - Shared feature tables go in integration/
 
+
+
 - Before stratifying the Pathogenwatch collection by country, year or isolation
   source, check `resistome/DATA_PROVENANCE.md`. Both the sample compartment and
   the contributing study confound those comparisons.
@@ -87,8 +89,7 @@ Kleborate virulence score ≥3 together with resistance score ≥1.
   gene-presence work, not for stratified comparison.
 
 ## Current status
-Resistome track only. Objectives 1, 3 and 4 are done; objective 2 is prepared
-and method-verified but not run.
+Resistome track only. All four objectives are done.
 
 **Objective 1 — done.** `lineage_structure_carbapenemase.py` →
 `results/lineage_structure.tsv`. The 99 positives need a minimum of 37
@@ -112,18 +113,34 @@ within study, so always read the CMH column.
 
 **Objective 4 — done.** See `DATA_PROVENANCE.md`.
 
-**Objective 2 — blocked on compute, not on method.** The export has no contig
-coordinates for AMR genes, so the assemblies are required.
-`carbapenemase_cohort.tsv` pins the 99 genomes (all resolve to paired ENA
-reads, 27.2 GB) and `assemble_carbapenemase_cohort.sh` pins the pipeline. All
-99 are assembled from reads even though 40 have public NCBI assemblies, because
-mixing assemblers would confound the plasmid-vs-chromosome call that objective
-2 rests on. Verified end-to-end on ERR4783440 (ST392, NDM-1): 167 contigs,
-N50 215 kb, and blaNDM-1 lands on a plasmid contig in mob_suite cluster AA405
-alongside CTX-M-15, OXA-1 and TEM-1 — 21 AMR genes on plasmid contigs against 7
-on the chromosome. Budget ~45 min/genome, so ~3 days for the cohort. Note
-`rep_type(s)` came back `-` on those contigs, so replicon naming may have to
-fall back on mob_suite cluster IDs; measure how often before relying on it.
+**Objective 2 — done, on 19 genomes not 99.** The export has no contig
+coordinates for AMR genes, so assemblies were required.
+`select_mobilization_subset.py` picked 19 genomes at the points where the
+argument turns (rationale column in `mobilization_subset.tsv`),
+`assemble_carbapenemase_cohort.sh` built them uniformly from reads, and
+`analyze_mobilization.py` → `results/mobilization_placement.tsv` did the join.
+
+16/18 carbapenemase calls sit on a plasmid contig. **One vehicle does cross
+lineages**: cluster AA038 carries OXA-181 in ST17, ST234 and ST340; AA405
+carries NDM-1 in ST147, ST307, ST340 and ST392; AA002 carries OXA-48 in ST307
+and ST392. ST340 settles the mechanism — its two genomes are 4 alleles apart
+and carry NDM-1 on AA405 and OXA-181 on AA038, two different vehicles into one
+host background.
+
+The two families ride very different plasmids. NDM clusters carry 10–20
+co-located AMR genes; the OXA-181 cluster carries 1–4 (usually just qnrS1) and
+the OXA-48 cluster carries none. Objective 3's specific markers are confirmed
+physically co-located: armA on the carbapenemase cluster in 4/4 genomes that
+have it, aph(3')-VI in 5/5 — whereas blaCTX-M-15, common everywhere, is only
+9/19. Genome-level co-occurrence and same-replicon carriage are not the same
+claim, and only this analysis separates them.
+
+Two cautions. `rep_type(s)` resolves for only 6/18 carbapenemase contigs while
+mob_suite cluster resolves 18/18, so clusters are the unit throughout. And
+clusters are mash-similarity groups, not proof of an identical plasmid — AA038
+carries OXA-181 in three STs but also NDM-7 in ST464, so treat it as a plasmid
+family. Cargo is aggregated per cluster, never per contig: these assemblies run
+167–215 contigs and one plasmid is routinely split across several.
 
 Cohort assemblies (`raw/pw_*.fna`) are gitignored — 99 × ~5.8 MB against a
 `.git` already at 357 MB, and they regenerate from the manifest plus the
